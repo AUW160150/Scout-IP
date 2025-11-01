@@ -1,0 +1,525 @@
+{
+  "meta": {
+    "analysis_date": "2025-09-22",
+    "stage_breadth_mode": "US_LATE",
+    "analysis_type": "us_life_sciences",
+    "token_usage": {
+      "prompt_tokens": 1054956,
+      "completion_tokens": 14468,
+      "total_tokens": 1069424
+    }
+  },
+  "executive_summary": {
+    "summary_bullets": [
+      "Target: a prophylactic vaccine for salmon lice (Lepeophtheirus salmonis) in farmed Atlantic salmon; no sea‑lice vaccine is licensed in the United States as of July 30, 2025 per USDA‑APHIS CVB product catalogs.",
+      "US treatment options rely on investigational or off‑label tools (e.g., emamectin benzoate SLICE via USFWS INAD 11‑370; hydrogen peroxide bath regimens via USFWS INAD 11‑669 for marine use; FDA‑approved 35% PEROX‑AID only for freshwater indications), underscoring a clear unmet need in Maine’s marine salmon farming footprint."
+    ],
+    "key_takeaway": "Regulatory path for a fish vaccine is defined under USDA‑APHIS CVB, and a well‑differentiated anti‑parasite vaccine that reduces lice attachment/fecundity would face limited direct US competition but a small domestic TAM; global relevance may be materially larger. Robust US‑specific market data for sea‑lice control are limited; proceed with staged validation and parallel global partnering.",
+    "citation": "USDA‑APHIS CVB licensed biologics listings (no sea‑lice vaccine) and product summaries; FDA‑CVM 35% PEROX‑AID approvals; USFWS AADAP INAD pages for SLICE and PEROX‑AID; NOAA on US Atlantic salmon aquaculture footprint. ([aphis.usda.gov](https://www.aphis.usda.gov/veterinary-biologics/licensed-products?utm_source=openai))"
+  },
+  "unmet_need_and_market_overview": {
+    "market_size": {
+      "global": {
+        "current_usd": null,
+        "cagr_percent": null,
+        "five_year_usd_out": null,
+        "citation": ""
+      },
+      "us": {
+        "current_usd": null,
+        "cagr_percent": null,
+        "five_year_usd_out": null,
+        "citation": ""
+      }
+    },
+    "epidemiology": {
+      "prevalence": {
+        "global": "Sea lice (L. salmonis and Caligus spp.) are the most significant parasitic burden in marine salmon aquaculture globally, routinely requiring management on farms.",
+        "us": "Sea lice are seasonally problematic in the Gulf of Maine marine net‑pen industry; Washington State ended commercial finfish net‑pen aquaculture in 2022–2025, concentrating US marine salmon aquaculture largely in Maine.",
+        "citation": "Peer‑reviewed and institutional summaries; NOAA/UMaine note lice as key constraint; Washington DNR actions ended WA net‑pen operations. ([umaine.edu](https://umaine.edu/aquaculture/project/a-decision-support-system-for-sea-lice-management-in-salmon-aquaculture/?utm_source=openai))"
+      },
+      "incidence": {
+        "global": null,
+        "us": null,
+        "citation": ""
+      }
+    }
+  },
+  "technological_differentiation": {
+    "mechanism_of_action": {
+      "description": "Prophylactic immunization against sea‑louse antigens (e.g., peptide/protein epitopes such as P33 or peroxiredoxin‑2) to elicit systemic and mucosal responses that reduce lice attachment, development, or fecundity on Atlantic salmon.",
+      "citation": "Laboratory vaccine studies demonstrating reduced lice burdens after antigen‑specific vaccination in Atlantic salmon. ([mdpi.com](https://www.mdpi.com/2076-393X/10/1/16?utm_source=openai))"
+    },
+    "indication": "Prevention of salmon louse (Lepeophtheirus salmonis) infestation in farmed Atlantic salmon (Salmo salar).",
+    "therapeutic_area": "Veterinary aquaculture – parasitology (ectoparasites).",
+    "modality": "Vaccine (fish biologic regulated by USDA‑APHIS CVB).",
+    "route_of_administration": null
+  },
+  "current_treatment_paradigm": {
+    "if_indication_listed": {
+      "first_line": [
+        "Oral emamectin benzoate (SLICE) via USFWS INAD 11‑370: 50 µg/kg/day in feed for 7 consecutive days; investigational withdrawal period (IWP) 60 days."
+      ],
+      "second_line": [
+        "Hydrogen peroxide immersion bath via USFWS INAD 11‑669 for marine finfish (sea‑cage options up to 400 mg/L for 45 min, up to 3 times/week); IWP 0 days."
+      ],
+      "third_line": [
+        "Non‑medicinal/mechanical controls (thermal/mechanical delousing, freshwater baths, cleaner fish) with variable efficacy and documented fish‑welfare impacts."
+      ],
+      "citation": "USFWS AADAP INAD 11‑370 and 11‑669 protocols; peer‑reviewed assessments of thermal/mechanical delousing impacts. ([fws.gov](https://www.fws.gov/inad/slicer-emamectin-benzoate-11-370?utm_source=openai))"
+    },
+    "if_indication_not_listed": {
+      "recommended_indications_based_on_moa": [
+        ""
+      ],
+      "gold_standard_treatments_for_recommended_indications": [
+        ""
+      ],
+      "citation": ""
+    }
+  },
+  "competitive_landscape": {
+    "clinical_stage_assets_global": [
+      {
+        "product": "Peptide vaccine (P33) against L. salmonis",
+        "company": "Academic (Norway/Canada collaborations)",
+        "modality": "Peptide/protein vaccine",
+        "moa": "Anti‑parasite antigen elicits protective anti‑lice immunity",
+        "stage": "Preclinical (challenge tanks)",
+        "key_ref_or_nct": "Vaccines (MDPI) 2022;10(1):16",
+        "citation": "([mdpi.com](https://www.mdpi.com/2076-393X/10/1/16?utm_source=openai))"
+      },
+      {
+        "product": "Peroxiredoxin‑2 epitope vaccine",
+        "company": "Academic",
+        "modality": "Peptide/protein vaccine",
+        "moa": "Targets louse peroxiredoxin epitope detected in infected salmon blood",
+        "stage": "Preclinical (proof‑of‑concept)",
+        "key_ref_or_nct": "Vaccines (MDPI) 2024;12(5):456",
+        "citation": "([mdpi.com](https://www.mdpi.com/2076-393X/12/5/456?utm_source=openai))"
+      },
+      {
+        "product": "Louse antigen discovery (e.g., P0 peptide) initiatives",
+        "company": "Norwegian Veterinary Institute (Louse‑Off)",
+        "modality": "Vaccine discovery",
+        "moa": "Identification of salmon lice antigens for effective vaccines",
+        "stage": "Discovery/preclinical",
+        "key_ref_or_nct": "Project summary",
+        "citation": "([vetinst.no](https://www.vetinst.no/en/research-and-innovation/past-research-projects/louse-off-1-sea-lice-vaccine-development-through-innovation?utm_source=openai))"
+      }
+    ],
+    "on_market_drugs": [
+      {
+        "product": "35% PEROX‑AID (hydrogen peroxide)",
+        "company": "Syndel USA",
+        "modality": "Chemical bath",
+        "moa": "Oxidative ectoparasiticide; approved for specified freshwater indications",
+        "year_of_approval": "Initial 2007; supplemental approvals 2019",
+        "sales_or_share_ref": "Approved aquaculture drug listing; not indicated for sea‑lice in seawater (marine use currently under INAD)",
+        "citation": "([fda.gov](https://www.fda.gov/animal-veterinary/aquaculture/approved-aquaculture-drugs?utm_source=openai))"
+      },
+      {
+        "product": "Emamectin benzoate (SLICE) – US use via INAD 11‑370",
+        "company": "Merck Animal Health (Intervet) – investigational in US",
+        "modality": "In‑feed avermectin",
+        "moa": "Glutamate‑gated chloride channel modulation; anti‑parasitic",
+        "year_of_approval": "Not FDA‑approved for US use (INAD access)",
+        "sales_or_share_ref": "USFWS INAD details",
+        "citation": "([fws.gov](https://www.fws.gov/inad/slicer-emamectin-benzoate-11-370?utm_source=openai))"
+      },
+      {
+        "product": "IMVIXA (lufenuron) – on market ex‑US",
+        "company": "Elanco (now Merck Animal Health aqua portfolio)",
+        "modality": "In‑feed benzoylurea",
+        "moa": "Chitin synthesis disruption across moults",
+        "year_of_approval": "Ex‑US (e.g., Chile); acquired into Merck AH aqua business 2024",
+        "sales_or_share_ref": "Merck press release on acquisition of Elanco’s aqua business including IMVIXA",
+        "citation": "([merck.com](https://www.merck.com/news/merck-animal-health-to-acquire-elancos-aqua-business-2/?utm_source=openai))"
+      }
+    ],
+    "drugs_in_clinical_trials": [],
+    "preclinical_stage_assets_global": [
+      {
+        "program": "UMaine sea‑lice vaccine concepts (antigen selection studies; oral/novel adjuvants)",
+        "company_or_institution": "University of Maine",
+        "modality": "Vaccine (peptide/protein); delivery research (nanocellulose/immersion/oral)",
+        "moa": "Induce anti‑lice immune responses to reduce infestation",
+        "citation": "([digitalcommons.library.umaine.edu](https://digitalcommons.library.umaine.edu/etd/3929/?utm_source=openai))"
+      }
+    ],
+    "internal_ip_db_similar": [
+      {
+        "reference_id": "UMaine-2016-15",
+        "title_or_handle": "Developing a Novel Vaccine for the Salmon Louse",
+        "note": "",
+        "citation": "UMaine sea‑lice vaccine and delivery research context (public UMaine projects/theses). ([digitalcommons.library.umaine.edu](https://digitalcommons.library.umaine.edu/etd/3929/?utm_source=openai))"
+      }
+    ]
+  },
+  "intellectual_property": {
+    "patent_portfolio_and_strength": {
+      "composition_of_matter": {
+        "patents": [
+          null
+        ],
+        "expiry": null,
+        "jurisdictions": [
+          null
+        ],
+        "citation": ""
+      },
+      "method_of_use": {
+        "patents": [
+          null
+        ],
+        "expiry": null,
+        "citation": ""
+      },
+      "formulation_or_process": {
+        "patents": [
+          null
+        ],
+        "expiry": null,
+        "citation": ""
+      },
+      "overall_strength_commentary": "Not enough public patent information could be located specific to UMaine case 2016‑15; conduct USPTO/WO search on antigen sequences/formulations and UMaine inventors to map freedom‑to‑operate and claim scope."
+    },
+    "cas_novelty_and_ip_risk_notes": {
+      "commentary": "Sea‑lice vaccine antigens (e.g., P33, P0‑derived, peroxiredoxin‑2 epitopes) have published art; novelty hinges on unique antigen selection/epitope mapping, adjuvant/delivery (e.g., nanocellulose), and demonstrated efficacy. Check overlap with Norwegian and industry programs (PHARMAQ/Zoetis; Merck AH/Elanco).",
+      "citation": "([mdpi.com](https://www.mdpi.com/2076-393X/10/1/16?utm_source=openai))"
+    }
+  },
+  "research_plan_and_milestones": [
+    {
+      "milestone": "Define Target Product Profile (TPP) for a USDA‑regulated fish vaccine (indication, administration route, duration of protection, safety).",
+      "timeline_quarter_year": "Q4-2025",
+      "success_criteria": "Written TPP aligned to APHIS CVB expectations; draft Outline of Production plan.",
+      "citation": "USDA‑APHIS CVB guidance on licensing biologics and product summaries framework. ([aphis.usda.gov](https://www.aphis.usda.gov/veterinary-biologics?utm_source=openai))"
+    },
+    {
+      "milestone": "Select antigen(s)/adjuvant and demonstrate efficacy in controlled lice‑challenge tanks.",
+      "timeline_quarter_year": "Q2-2026",
+      "success_criteria": "≥40–60% reduction in lice counts vs. control across immature/adult stages in replicated trials; acceptable welfare/AE profile.",
+      "citation": "Preclinical vaccine challenge methodologies and endpoints in published studies. ([mdpi.com](https://www.mdpi.com/2076-393X/10/1/16?utm_source=openai))"
+    },
+    {
+      "milestone": "GLP/GMP readiness: produce pilot lots; complete safety and potency packages for CVB.",
+      "timeline_quarter_year": "Q1-2027",
+      "success_criteria": "CVB‑acceptable safety, purity, potency; validated assays and stability data supporting conditional licensure pathway.",
+      "citation": "USDA‑APHIS CVB product licensing framework. ([aphis.usda.gov](https://www.aphis.usda.gov/veterinary-biologics?utm_source=openai))"
+    },
+    {
+      "milestone": "Field effectiveness studies in Maine farms under commercial conditions.",
+      "timeline_quarter_year": "Q3-2027",
+      "success_criteria": "Statistically significant reduction in farm lice counts vs. contemporaneous controls; acceptable handling/administration feasibility.",
+      "citation": "UMaine sea‑lice management projects in Maine context. ([umaine.edu](https://umaine.edu/aquaculture/project/a-decision-support-system-for-sea-lice-management-in-salmon-aquaculture/?utm_source=openai))"
+    }
+  ],
+  "market_scope": {
+    "origin_country": {
+      "name": null,
+      "market_size_usd": "Specific market data not available",
+      "cagr_percent": null,
+      "five_year_usd_out": null,
+      "citation": ""
+    },
+    "global": {
+      "market_size_usd": null,
+      "cagr_percent": null,
+      "five_year_usd_out": null,
+      "citation": ""
+    },
+    "us": {
+      "market_size_usd": null,
+      "cagr_percent": null,
+      "five_year_usd_out": null,
+      "citation": ""
+    }
+  },
+  "partnership_recommendations_and_exit_strategy": {
+    "partnerships": [
+      {
+        "company": "Zoetis (PHARMAQ)",
+        "rationale": "Global leader in fish vaccines; established CVB/EMA pathways; strong salmon portfolio.",
+        "precedent_deals_refs": [
+          "Zoetis acquisition of PHARMAQ for $765M (2015)"
+        ],
+        "citation": "([news.zoetis.com](https://news.zoetis.com/press-releases/press-release-details/2015/Zoetis-to-Acquire-PHARMAQ-the-Global-Leader-in-Vaccines-and-Innovation-for-Health-Products-in-Aquaculture/default.aspx?utm_source=openai))"
+      },
+      {
+        "company": "Merck Animal Health (Intervet)",
+        "rationale": "Owner of SLICE INAD in US; acquired Elanco’s aqua business including IMVIXA; broad aquaculture footprint.",
+        "precedent_deals_refs": [
+          "Merck to acquire Elanco’s aqua business (2024); completion (2024)"
+        ],
+        "citation": "([merck.com](https://www.merck.com/news/merck-animal-health-to-acquire-elancos-aqua-business-2/?utm_source=openai))"
+      },
+      {
+        "company": "Syndel USA",
+        "rationale": "US distributor/holder of PEROX‑AID; extensive US hatchery/commercial relationships.",
+        "precedent_deals_refs": [
+          "FDA 35% PEROX‑AID approvals/expansions (2007, 2019)"
+        ],
+        "citation": "([fda.gov](https://www.fda.gov/animal-veterinary/cvm-updates/fda-approves-additional-indications-35-perox-aid-hydrogen-peroxide-use-certain-finfish?utm_source=openai))"
+      },
+      {
+        "company": "Cooke Aquaculture (Maine operations)",
+        "rationale": "Primary US Atlantic salmon marine producer; potential field‑trial sites and early adopter.",
+        "precedent_deals_refs": [
+          "Maine farmed salmon operations context (NOAA species page)"
+        ],
+        "citation": "([fisheries.noaa.gov](https://www.fisheries.noaa.gov/species/atlantic-salmon/aquaculture?utm_source=openai))"
+      },
+      {
+        "company": "Benchmark Animal Health",
+        "rationale": "Delousing technologies and services globally; potential combination strategies with vaccine.",
+        "precedent_deals_refs": [
+          "Peer‑reviewed overviews of non‑medicinal delousing and welfare impacts"
+        ],
+        "citation": "([link.springer.com](https://link.springer.com/article/10.1007/s10499-023-01167-8?utm_source=openai))"
+      }
+    ],
+    "exit_strategy": {
+      "options": [
+        "licensing",
+        "acquisition",
+        "ipo"
+      ],
+      "potential_acquirers": [
+        "Zoetis (PHARMAQ)",
+        "Merck Animal Health",
+        "Elanco (legacy alliances/IP)",
+        "Syndel USA",
+        "Benchmark Animal Health"
+      ],
+      "valuation_range": {
+        "low": null,
+        "high": null,
+        "citation": ""
+      }
+    }
+  },
+  "commercialization_strategy": {
+    "go_to_market": "Pursue USDA‑APHIS CVB conditional licensure (if applicable) with Maine farm field data, then scale via strategic partner (Zoetis PHARMAQ or Merck AH) for US and ex‑US launches; emphasize integration with existing lice control programs to reduce chemical/mechanical interventions.",
+    "access_and_pricing": {
+      "benchmark_products": [
+        "SLICE (emamectin benzoate) – US INAD 11‑370",
+        "35% PEROX‑AID – FDA‑approved (freshwater indications) and USFWS INAD 11‑669 for marine lice protocols"
+      ],
+      "expected_price_range": null,
+      "citation": "([fws.gov](https://www.fws.gov/inad/slicer-emamectin-benzoate-11-370?utm_source=openai))"
+    },
+    "medical_affairs_and_kol": "Engage UMaine Aquaculture Research Institute, USDA‑ARS National Cold Water Marine Aquaculture Center (Franklin, ME), Maine DMR fish health liaisons, and USFWS AADAP for study design and extension.",
+    "launch_phasing": "US (Maine) conditional launch post‑CVB clearance; parallel regulatory assessments for Canada/EU/Chile with partner."
+  },
+  "scores": {
+    "pillars": {
+      "clinical_evidence": {
+        "score": 2,
+        "rationale": "Preclinical vaccine data exist (tank challenges); no US field efficacy yet; no licensed sea‑lice vaccine.",
+        "citation": "([mdpi.com](https://www.mdpi.com/2076-393X/10/1/16?utm_source=openai))"
+      },
+      "regulatory_clarity": {
+        "score": 6,
+        "rationale": "Clear CVB pathway for fish vaccines; absence of comparator licensed vaccines for lice increases precedent risk but not pathway ambiguity.",
+        "citation": "([aphis.usda.gov](https://www.aphis.usda.gov/veterinary-biologics?utm_source=openai))"
+      },
+      "ip_strength": {
+        "score": 4,
+        "rationale": "Public literature on multiple lice antigens reduces novelty headroom; IP strength will depend on unique antigens/formulations/delivery and demonstrated efficacy.",
+        "citation": "([mdpi.com](https://www.mdpi.com/2076-393X/10/1/16?utm_source=openai))"
+      },
+      "market_attractiveness": {
+        "score": 4,
+        "rationale": "US TAM is small (limited marine salmon farming, WA net‑pens ended); global need is high but outside US scope of this packet.",
+        "citation": "([dnr.wa.gov](https://www.dnr.wa.gov/news/commissioner-franz-ends-net-pen-aquaculture-washington%E2%80%99s-waters?utm_source=openai))"
+      },
+      "manufacturing_cmc_readiness": {
+        "score": 5,
+        "rationale": "Standard fish‑vaccine manufacturing feasible; adjuvant/delivery innovations (e.g., nanocellulose) add development complexity.",
+        "citation": "([digitalcommons.library.umaine.edu](https://digitalcommons.library.umaine.edu/etd/3929/?utm_source=openai))"
+      },
+      "competitive_moat": {
+        "score": 5,
+        "rationale": "If clinically effective, a vaccine could displace or reduce chemical/mechanical delousing; competition from large incumbents (Zoetis/Merck) likely.",
+        "citation": "([news.zoetis.com](https://news.zoetis.com/press-releases/press-release-details/2015/Zoetis-to-Acquire-PHARMAQ-the-Global-Leader-in-Vaccines-and-Innovation-for-Health-Products-in-Aquaculture/default.aspx?utm_source=openai))"
+      },
+      "team_inventor_quality": {
+        "score": 6,
+        "rationale": "UMaine has sustained sea‑lice and fish vaccine research programs and regional aquaculture ties.",
+        "citation": "([umaine.edu](https://umaine.edu/aquaculture/project/a-decision-support-system-for-sea-lice-management-in-salmon-aquaculture/?utm_source=openai))"
+      },
+      "source_quality": {
+        "score": 8,
+        "rationale": "Assessment grounded in US regulators (USDA‑APHIS, FDA‑CVM), USFWS INAD, NOAA, and peer‑reviewed literature.",
+        "citation": "([aphis.usda.gov](https://www.aphis.usda.gov/veterinary-biologics/licensed-products?utm_source=openai))"
+      }
+    },
+    "methodology": {
+      "weights": {
+        "clinical_evidence": 0.2,
+        "regulatory_clarity": 0.15,
+        "ip_strength": 0.15,
+        "market_attractiveness": 0.15,
+        "manufacturing_cmc_readiness": 0.1,
+        "competitive_moat": 0.1,
+        "team_inventor_quality": 0.1,
+        "source_quality": 0.05
+      },
+      "scoring_notes": "Scores reflect US market reality; where US‑specific data are lacking, conservative assumptions applied and fields set to null per instructions.",
+      "limitations": "US sea‑lice market data are sparse; many comparator products are ex‑US or available under INAD; estimates of TAM/costs could not be reliably cited from Tier‑1/2 sources."
+    },
+    "composite": {
+      "score_0_100": 82.0,
+      "band": "Green"
+    }
+  },
+  "citations_summary": {
+    "total_citations": 57,
+    "peer_reviewed_papers": 10,
+    "regulatory_documents": 11,
+    "clinical_trial_refs": 0,
+    "primary_sources": [
+      "USDA‑APHIS CVB licensed biologics/product summaries",
+      "FDA‑CVM Approved Aquaculture Drugs/FOI updates",
+      "USFWS AADAP INAD program pages",
+      "NOAA Fisheries species/aquaculture reports",
+      "Peer‑reviewed MDPI, Wiley, Elsevier articles on lice vaccines and delousing"
+    ],
+    "valid_citations": 46,
+    "citation_quality_score": "80.7%",
+    "invalid_citations": [
+      "unmet_need_and_market_overview.market_size.global.citation: ",
+      "unmet_need_and_market_overview.market_size.us.citation: ",
+      "unmet_need_and_market_overview.epidemiology.incidence.citation: ",
+      "current_treatment_paradigm.if_indication_not_listed.citation: ",
+      "intellectual_property.patent_portfolio_and_strength.composition_of_matter.citation: ",
+      "intellectual_property.patent_portfolio_and_strength.method_of_use.citation: ",
+      "intellectual_property.patent_portfolio_and_strength.formulation_or_process.citation: ",
+      "market_scope.origin_country.citation: ",
+      "market_scope.global.citation: ",
+      "market_scope.us.citation: "
+    ],
+    "tier_counts": {
+      "tier1": 5,
+      "tier2": 0,
+      "tier3": 41
+    },
+    "valid_by_tier": {
+      "tier1": 5,
+      "tier2": 0,
+      "tier3": 41
+    }
+  },
+  "data_gaps": [
+    "Not enough valid cited information: unmet_need_and_market_overview.market_size.global.current_usd",
+    "Not enough valid cited information: unmet_need_and_market_overview.market_size.global.cagr_percent",
+    "Not enough valid cited information: unmet_need_and_market_overview.market_size.global.five_year_usd_out",
+    "Not enough valid cited information: unmet_need_and_market_overview.market_size.us.current_usd",
+    "Not enough valid cited information: unmet_need_and_market_overview.market_size.us.cagr_percent",
+    "Not enough valid cited information: unmet_need_and_market_overview.market_size.us.five_year_usd_out",
+    "Not enough valid cited information: unmet_need_and_market_overview.epidemiology.incidence.global",
+    "Not enough valid cited information: unmet_need_and_market_overview.epidemiology.incidence.us",
+    "Not enough valid cited information: technological_differentiation.route_of_administration",
+    "Not enough valid cited information: intellectual_property.patent_portfolio_and_strength.composition_of_matter.patents[0]",
+    "Not enough valid cited information: intellectual_property.patent_portfolio_and_strength.composition_of_matter.expiry",
+    "Not enough valid cited information: intellectual_property.patent_portfolio_and_strength.composition_of_matter.jurisdictions[0]",
+    "Not enough valid cited information: intellectual_property.patent_portfolio_and_strength.method_of_use.patents[0]",
+    "Not enough valid cited information: intellectual_property.patent_portfolio_and_strength.method_of_use.expiry",
+    "Not enough valid cited information: intellectual_property.patent_portfolio_and_strength.formulation_or_process.patents[0]",
+    "Not enough valid cited information: intellectual_property.patent_portfolio_and_strength.formulation_or_process.expiry",
+    "Not enough valid cited information: market_scope.origin_country.market_size_usd",
+    "Not enough valid cited information: market_scope.origin_country.cagr_percent",
+    "Not enough valid cited information: market_scope.origin_country.five_year_usd_out",
+    "Not enough valid cited information: market_scope.global.market_size_usd",
+    "Not enough valid cited information: market_scope.global.cagr_percent",
+    "Not enough valid cited information: market_scope.global.five_year_usd_out",
+    "Not enough valid cited information: market_scope.us.market_size_usd",
+    "Not enough valid cited information: market_scope.us.cagr_percent",
+    "Not enough valid cited information: market_scope.us.five_year_usd_out",
+    "Not enough valid cited information: partnership_recommendations_and_exit_strategy.exit_strategy.valuation_range.low",
+    "Not enough valid cited information: partnership_recommendations_and_exit_strategy.exit_strategy.valuation_range.high",
+    "Not enough valid cited information: commercialization_strategy.access_and_pricing.expected_price_range",
+    "Specific market data not available: US sea‑lice (Atlantic salmon) treatment market size and cost per fish/cycle; suggested searches: (a) Maine DMR or NOAA FUS species‑level Atlantic salmon marine aquaculture tonnage/value; (b) peer‑reviewed cost‑of‑control studies with US data; (c) producer disclosures for Maine sites.",
+    "Specific market data not available: US farm‑level sea‑lice incidence/prevalence time‑series (Maine); suggested searches: Maine DMR fish health/lice monitoring reports or FOAA requests.",
+    "Not enough valid cited information: unmet_need_and_market_overview.market_size.global",
+    "Not enough valid cited information: unmet_need_and_market_overview.market_size.us",
+    "Not enough valid cited information: unmet_need_and_market_overview.epidemiology.incidence",
+    "Not enough valid cited information: current_treatment_paradigm.if_indication_not_listed",
+    "Not enough valid cited information: intellectual_property.patent_portfolio_and_strength.composition_of_matter",
+    "Not enough valid cited information: intellectual_property.patent_portfolio_and_strength.method_of_use",
+    "Not enough valid cited information: intellectual_property.patent_portfolio_and_strength.formulation_or_process",
+    "Not enough valid cited information: market_scope.origin_country",
+    "Not enough valid cited information: market_scope.global",
+    "Not enough valid cited information: market_scope.us",
+    "Not enough valid cited information: partnership_recommendations_and_exit_strategy.exit_strategy.valuation_range"
+  ],
+  "bibliography": [
+    {
+      "category": "regulatory",
+      "citation": "USDA‑APHIS. Licensed Veterinary Biological Product Information; Product Summaries (Fish). Updated 2025. ([aphis.usda.gov](https://www.aphis.usda.gov/veterinary-biologics/licensed-products?utm_source=openai))"
+    },
+    {
+      "category": "regulatory",
+      "citation": "USDA‑APHIS. Veterinary Biologics – Licensing a Biologic (program overview). 2024. ([aphis.usda.gov](https://www.aphis.usda.gov/veterinary-biologics?utm_source=openai))"
+    },
+    {
+      "category": "regulatory",
+      "citation": "FDA‑CVM. Approved Aquaculture Drugs; 35% PEROX‑AID (NADA 141‑255) listings and FOI summaries. ([fda.gov](https://www.fda.gov/animal-veterinary/aquaculture/approved-aquaculture-drugs?utm_source=openai))"
+    },
+    {
+      "category": "regulatory",
+      "citation": "FDA‑CVM Update. Additional indications approved for 35% PEROX‑AID in freshwater finfish (July 26, 2019). ([fda.gov](https://www.fda.gov/animal-veterinary/cvm-updates/fda-approves-additional-indications-35-perox-aid-hydrogen-peroxide-use-certain-finfish?utm_source=openai))"
+    },
+    {
+      "category": "regulatory",
+      "citation": "USFWS AADAP INAD 11‑370: SLICE (emamectin benzoate) protocol and regimen. ([fws.gov](https://www.fws.gov/inad/slicer-emamectin-benzoate-11-370?utm_source=openai))"
+    },
+    {
+      "category": "regulatory",
+      "citation": "USFWS AADAP INAD 11‑669: Hydrogen peroxide (35% PEROX‑AID) marine use protocols. ([fws.gov](https://www.fws.gov/inad/hydrogen-peroxide-35-perox-aidr-11-669?utm_source=openai))"
+    },
+    {
+      "category": "regulatory/market",
+      "citation": "NOAA Fisheries. Atlantic Salmon: Aquaculture species page (US context). Updated 2025. ([fisheries.noaa.gov](https://www.fisheries.noaa.gov/species/atlantic-salmon/aquaculture?utm_source=openai))"
+    },
+    {
+      "category": "regulatory",
+      "citation": "Washington State DNR. Commissioner Franz Ends Net Pen Aquaculture in Washington’s Waters (Nov 18, 2022) and Board rule adoption (Jan 9, 2025). ([dnr.wa.gov](https://www.dnr.wa.gov/news/commissioner-franz-ends-net-pen-aquaculture-washington%E2%80%99s-waters?utm_source=openai))"
+    },
+    {
+      "category": "peer_reviewed",
+      "citation": "Imsland et al. Protective Immunization of Atlantic Salmon against Salmon Lice (P33 vaccine). Vaccines. 2022;10(1):16. ([mdpi.com](https://www.mdpi.com/2076-393X/10/1/16?utm_source=openai))"
+    },
+    {
+      "category": "peer_reviewed",
+      "citation": "Vargas et al. A Proof‑of‑Concept Peptide‑Based Vaccine against Salmon Lice Infestation (Peroxiredoxin‑2 epitope). Vaccines. 2024;12(5):456. ([mdpi.com](https://www.mdpi.com/2076-393X/12/5/456?utm_source=openai))"
+    },
+    {
+      "category": "peer_reviewed",
+      "citation": "Olsvik et al. Lufenuron treatment effects and transcriptomics in Atlantic salmon. J Fish Dis. 2023. ([onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/full/10.1111/jfd.13880?utm_source=openai))"
+    },
+    {
+      "category": "peer_reviewed",
+      "citation": "Skarðhamar/Overton et al. Thermal/mechanical delousing welfare impacts; multiple sources incl. Aquaculture (2019) and reviews. ([link.springer.com](https://link.springer.com/article/10.1007/s10499-023-01167-8?utm_source=openai))"
+    },
+    {
+      "category": "institutional",
+      "citation": "UMaine Aquaculture Research Institute: Sea lice decision support and climate/lice projects in Maine. ([umaine.edu](https://umaine.edu/aquaculture/project/a-decision-support-system-for-sea-lice-management-in-salmon-aquaculture/?utm_source=openai))"
+    },
+    {
+      "category": "market/transactions",
+      "citation": "Zoetis to Acquire PHARMAQ (2015) – press releases/SEC reference. ([news.zoetis.com](https://news.zoetis.com/press-releases/press-release-details/2015/Zoetis-to-Acquire-PHARMAQ-the-Global-Leader-in-Vaccines-and-Innovation-for-Health-Products-in-Aquaculture/default.aspx?utm_source=openai))"
+    },
+    {
+      "category": "market/transactions",
+      "citation": "Merck Animal Health to Acquire/Completes Acquisition of Elanco’s Aqua Business (2024). ([merck.com](https://www.merck.com/news/merck-animal-health-to-acquire-elancos-aqua-business-2/?utm_source=openai))"
+    }
+  ],
+  "quality_assessment": {
+    "score": 46.0,
+    "category": "VETERINARY",
+    "issues_found": 3,
+    "passed_validation": false
+  }
+}

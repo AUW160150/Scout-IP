@@ -1,0 +1,122 @@
+{
+  "parent_url": "http://techbiz.snu.ac.kr/tech/navi.php",
+  "filtered_date": "2025-10-18T17:13:19.566869",
+  "filter_stage": "pre_scraping_filter",
+  "filter_criteria": {
+    "keep_categories": [
+      "Life Sciences",
+      "Medical Devices"
+    ],
+    "min_confidence": 0.5,
+    "llm_mode": "smart"
+  },
+  "statistics": {
+    "total": 35,
+    "life_sciences": 2,
+    "medical_devices": 5,
+    "other": 28,
+    "kept": 7,
+    "discarded": 28
+  },
+  "total_count": 7,
+  "urls": [
+    {
+      "id": "navi.php?boardid=sunavi&mode=view&idx=85101&sk=&sw=&offset=0&scate=",
+      "url": "http://techbiz.snu.ac.kr/tech/navi.php?boardid=sunavi&mode=view&idx=85101&sk=&sw=&offset=0&scate=",
+      "title": "의료기기/장치 > 신체기능 복원/보조장치 > 재활훈련/보조장치자기 정렬이 가능한 관절 보조 장치대표 발명자조규진등록 번호10-2564205등록일2023-08-02본 발명은 자기 정렬이 가능한 관절 보조 장치에 관한 것으로서, 더욱 상세하게는 대퇴부와 하퇴부를 연결하는 무릎 관절과 같이 인체의 관절 부분에 착용되어 그 관절의 움직임을 보조하는 자기 정렬이 가능한 관절 보조 장치에 관한 것이다. \r\n본 발명은, 인체 관절의 복잡한 자유도의 움직임에 자동으로 정렬하여 움직이면서 관절 움직임을 보조하기 때문에, 사용자가 사용하기에 매우 편리한 장점이 있다. \r\n또한, 본 발명은 비교적 단순하고 간단한 구조로 구성되어 비교적 낮은 가격에 제작할 수 있으면서, 사용자의 관절의 움직임에 맞추어 매우 높...",
+      "title_original": "의료기기/장치 > 신체기능 복원/보조장치 > 재활훈련/보조장치자기 정렬이 가능한 관절 보조 장치대표 발명자조규진등록 번호10-2564205등록일2023-08-02본 발명은 자기 정렬이 가능한 관절 보조 장치에 관한 것으로서, 더욱 상세하게는 대퇴부와 하퇴부를 연결하는 무릎 관절과 같이 인체의 관절 부분에 착용되어 그 관절의 움직임을 보조하는 자기 정렬이 가능한 관절 보조 장치에 관한 것이다. \r\n본 발명은, 인체 관절의 복잡한 자유도의 움직임에 자동으로 정렬하여 움직이면서 관절 움직임을 보조하기 때문에, 사용자가 사용하기에 매우 편리한 장점이 있다. \r\n또한, 본 발명은 비교적 단순하고 간단한 구조로 구성되어 비교적 낮은 가격에 제작할 수 있으면서, 사용자의 관절의 움직임에 맞추어 매우 높...",
+      "translated": false,
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.95,
+        "reasoning": "The title describes a joint assistive device designed to support and enhance the movement of human joints, which falls squarely within the medical devices sector focused on rehabilitation and assistive technologies.",
+        "classified_date": "2025-10-18T17:12:16.691760",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "navi.php?boardid=sunavi&mode=view&idx=85096&sk=&sw=&offset=0&scate=",
+      "url": "http://techbiz.snu.ac.kr/tech/navi.php?boardid=sunavi&mode=view&idx=85096&sk=&sw=&offset=0&scate=",
+      "title": "농림생활식품 > 동물자원과학 > 유전공학Dsrna 혼합물을 유효성분으로 포함하는 pepmov 방제용 조성물 및 이의 용도대표 발명자신찬석등록 번호10-2496921등록일2023-02-02본 발명은 서열번호 1의 염기서열로 이루어진 dsRNA (double-stranded RNA) 및 서열번호 2의 염기서열로 이루어진 dsRNA의 혼합물을 유효성분으로 포함하는 PepMoV (Pepper Mottle Virus) 방제용 조성물 및 이의 용도에 관한 것이다.",
+      "title_original": "농림생활식품 > 동물자원과학 > 유전공학Dsrna 혼합물을 유효성분으로 포함하는 pepmov 방제용 조성물 및 이의 용도대표 발명자신찬석등록 번호10-2496921등록일2023-02-02본 발명은 서열번호 1의 염기서열로 이루어진 dsRNA (double-stranded RNA) 및 서열번호 2의 염기서열로 이루어진 dsRNA의 혼합물을 유효성분으로 포함하는 PepMoV (Pepper Mottle Virus) 방제용 조성물 및 이의 용도에 관한 것이다.",
+      "translated": false,
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title describes a composition for controlling a plant virus using double-stranded RNA, which falls under biotechnology and therapeutics related to genetic engineering and disease management in agriculture.",
+        "classified_date": "2025-10-18T17:12:26.115537",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "navi.php?boardid=sunavi&mode=view&idx=85095&sk=&sw=&offset=0&scate=",
+      "url": "http://techbiz.snu.ac.kr/tech/navi.php?boardid=sunavi&mode=view&idx=85095&sk=&sw=&offset=0&scate=",
+      "title": "정보/통신 > 소프트웨어 >유방암 발생 위험도 예측 장치 및 방법대표 발명자강대희등록 번호10-2553562등록일2023-07-05본 발명에 따른 유방암 발생 위험도 예측 장치는, 위험도 예측 프로그램이 저장된 메모리; 및 상기 위험도 예측 프로그램을 실행하는 프로세서를 포함하고, 상기 위험도 예측 프로그램은, 복수의 유방암 발생 요인에 대한 설문 응답을 발생률 계산 모델에 적용하여 유방암 발생률을 계산하고, 상기 유방암 발생률에 따라 유방암 발생 위험 정도를 출력하며, 상기 발생률 계산 모델은, 소정의 질병을 가지고 있지 않은 비환자 코호트(cohort)에 대한 상기 복수의 유방암 발생 요인을 이용하여 상기 복수의 유방암 발생 요인과 유방암 발생 사이의 연관성을 수식으로...",
+      "title_original": "정보/통신 > 소프트웨어 >유방암 발생 위험도 예측 장치 및 방법대표 발명자강대희등록 번호10-2553562등록일2023-07-05본 발명에 따른 유방암 발생 위험도 예측 장치는, 위험도 예측 프로그램이 저장된 메모리; 및 상기 위험도 예측 프로그램을 실행하는 프로세서를 포함하고, 상기 위험도 예측 프로그램은, 복수의 유방암 발생 요인에 대한 설문 응답을 발생률 계산 모델에 적용하여 유방암 발생률을 계산하고, 상기 유방암 발생률에 따라 유방암 발생 위험 정도를 출력하며, 상기 발생률 계산 모델은, 소정의 질병을 가지고 있지 않은 비환자 코호트(cohort)에 대한 상기 복수의 유방암 발생 요인을 이용하여 상기 복수의 유방암 발생 요인과 유방암 발생 사이의 연관성을 수식으로...",
+      "translated": false,
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title describes a device and method for predicting breast cancer risk, which involves a risk prediction program and calculations based on various breast cancer risk factors. This aligns with the Life Sciences sector, particularly in diagnostics and risk assessment related to health.",
+        "classified_date": "2025-10-18T17:12:28.919797",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "navi.php?boardid=sunavi&mode=view&idx=85094&sk=&sw=&offset=0&scate=",
+      "url": "http://techbiz.snu.ac.kr/tech/navi.php?boardid=sunavi&mode=view&idx=85094&sk=&sw=&offset=0&scate=",
+      "title": "의료기기/장치 > 의료데이터 처리장치 > 의료 정보 및 시스템3차원 보행신호 기반 노인성 인지장애 진단 장치 및 방법대표 발명자민경복등록 번호10-2521713등록일2023-04-11본 발명의 일 실시예에 따른 3차원 보행신호 기반 노인성 인지장애 진단 장치는 데이터 송수신 모듈; 노인성 인지장애 진단 프로그램이 저장된 메모리; 및 메모리에 저장된 프로그램을 실행하는 프로세서를 포함하며, 프로그램은, 피검사자의 시공간적 보행신호 및 운동형상적 보행신호를 포함한 3차원 보행신호를 수집하고, 3차원 보행신호를 기초로 인지장애 진단 모델을 이용하여 인지장애 질병 확률을 산출하고, 산출된 확률값을 기초로 인지장애 질병 여부를 판단하되, 인지장애 진단 모델은 노인성 인지장애 질병을 가진 환자의 3차원 보행신호를 로...",
+      "title_original": "의료기기/장치 > 의료데이터 처리장치 > 의료 정보 및 시스템3차원 보행신호 기반 노인성 인지장애 진단 장치 및 방법대표 발명자민경복등록 번호10-2521713등록일2023-04-11본 발명의 일 실시예에 따른 3차원 보행신호 기반 노인성 인지장애 진단 장치는 데이터 송수신 모듈; 노인성 인지장애 진단 프로그램이 저장된 메모리; 및 메모리에 저장된 프로그램을 실행하는 프로세서를 포함하며, 프로그램은, 피검사자의 시공간적 보행신호 및 운동형상적 보행신호를 포함한 3차원 보행신호를 수집하고, 3차원 보행신호를 기초로 인지장애 진단 모델을 이용하여 인지장애 질병 확률을 산출하고, 산출된 확률값을 기초로 인지장애 질병 여부를 판단하되, 인지장애 진단 모델은 노인성 인지장애 질병을 가진 환자의 3차원 보행신호를 로...",
+      "translated": false,
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.9,
+        "reasoning": "The title describes a device for diagnosing cognitive impairment in the elderly based on 3D gait signals, which falls under the category of medical devices focused on diagnostic hardware and health-tech devices.",
+        "classified_date": "2025-10-18T17:12:31.241382",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "navi.php?boardid=sunavi&mode=view&idx=85091&sk=&sw=&offset=10&scate=",
+      "url": "http://techbiz.snu.ac.kr/tech/navi.php?boardid=sunavi&mode=view&idx=85091&sk=&sw=&offset=10&scate=",
+      "title": "농림생활식품 > 수산자원 > 기타해양 생물에 미치는 전자기장의 영향 관찰 장치 및 방법대표 발명자김종성등록 번호10-2565169등록일2023-08-04본 발명은 한 쌍으로 마련되어 상호 이격되어 평행하게 배치되는 헬름홀츠코일부; 상기 한 쌍의 헬름홀츠코일부 사이에 배치되는 시험 받침대; 및 상기 시험 받침대 상에 배치되고, 내부에 해양 생물이 수용되는 하나 이상의 수조;를 포함하고, 상기 한 쌍의 헬름홀츠코일부의 헬름홀츠코일에 전류 조절기를 연결하여 전자기장 세기를 조절하면서 상기 수조 내의 해양 생물을 관찰하는 것을 특징으로 하는, 해양 생물에 미치는 전자기장의 영향 관찰 장치를 제공한다.",
+      "title_original": "농림생활식품 > 수산자원 > 기타해양 생물에 미치는 전자기장의 영향 관찰 장치 및 방법대표 발명자김종성등록 번호10-2565169등록일2023-08-04본 발명은 한 쌍으로 마련되어 상호 이격되어 평행하게 배치되는 헬름홀츠코일부; 상기 한 쌍의 헬름홀츠코일부 사이에 배치되는 시험 받침대; 및 상기 시험 받침대 상에 배치되고, 내부에 해양 생물이 수용되는 하나 이상의 수조;를 포함하고, 상기 한 쌍의 헬름홀츠코일부의 헬름홀츠코일에 전류 조절기를 연결하여 전자기장 세기를 조절하면서 상기 수조 내의 해양 생물을 관찰하는 것을 특징으로 하는, 해양 생물에 미치는 전자기장의 영향 관찰 장치를 제공한다.",
+      "translated": false,
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.85,
+        "reasoning": "The invention involves a device for observing the effects of electromagnetic fields on marine organisms, which aligns with the medical devices sector due to its focus on diagnostic hardware and monitoring devices.",
+        "classified_date": "2025-10-18T17:13:01.178729",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "navi.php?boardid=sunavi&mode=view&idx=85085&sk=&sw=&offset=10&scate=",
+      "url": "http://techbiz.snu.ac.kr/tech/navi.php?boardid=sunavi&mode=view&idx=85085&sk=&sw=&offset=10&scate=",
+      "title": "의료기기/장치 > 의료데이터 처리장치 > 의료 정보 및 시스템다중 생체신호 기반 노인성 인지장애 진단 방법 및 장치대표 발명자민경복등록 번호10-2540660등록일2023-06-01본 발명의 일 실시예에 따른 다중 생체신호 기반 인지장애 진단 방법은 (a) 보행 시 피검사자의 뇌파, 심박동변이, 및 보행측정값을 포함한 다중 생체신호를 수집하는 단계; (b) 다중 생체신호를 기초로 인지장애 진단 모델을 이용하여 인지장애 질병 확률을 산출하는 단계; 및 (c) 산출된 확률값을 기초로 인지장애 질병 여부를 판단하는 단계를 포함하되, 인지장애 진단 모델은 노인성 인지장애 질병을 가진 환자의 뇌파, 심박동변이 및 보행측정값을 로지스틱 함수에 적용하여 구축된 모델인 것이다.",
+      "title_original": "의료기기/장치 > 의료데이터 처리장치 > 의료 정보 및 시스템다중 생체신호 기반 노인성 인지장애 진단 방법 및 장치대표 발명자민경복등록 번호10-2540660등록일2023-06-01본 발명의 일 실시예에 따른 다중 생체신호 기반 인지장애 진단 방법은 (a) 보행 시 피검사자의 뇌파, 심박동변이, 및 보행측정값을 포함한 다중 생체신호를 수집하는 단계; (b) 다중 생체신호를 기초로 인지장애 진단 모델을 이용하여 인지장애 질병 확률을 산출하는 단계; 및 (c) 산출된 확률값을 기초로 인지장애 질병 여부를 판단하는 단계를 포함하되, 인지장애 진단 모델은 노인성 인지장애 질병을 가진 환자의 뇌파, 심박동변이 및 보행측정값을 로지스틱 함수에 적용하여 구축된 모델인 것이다.",
+      "translated": false,
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.9,
+        "reasoning": "The title describes a medical device/system for diagnosing cognitive impairment using multiple biosignals, which aligns with the Medical Devices sector focused on diagnostic hardware and monitoring devices.",
+        "classified_date": "2025-10-18T17:13:13.117796",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "navi.php?boardid=sunavi&mode=view&idx=85084&sk=&sw=&offset=10&scate=",
+      "url": "http://techbiz.snu.ac.kr/tech/navi.php?boardid=sunavi&mode=view&idx=85084&sk=&sw=&offset=10&scate=",
+      "title": "의료기기/장치 > 신체기능 복원/보조장치 > 재활훈련/보조장치고관절 발목 연동형 보행 보조 장치대표 발명자조규진등록 번호10-2495560등록일2023-01-31본 발명은 고관절 발목 연동형 보행 보조 장치에 관한 것으로서, 더욱 상세하게는 사용자의 몸에 착용하여 사용자의 움직임에 따른 보행 동작을 보조하는 고관절 발목 연동형 보행 보조 장치에 관한 것이다.\r\n본 발명의 고관절 발목 연동형 보행 보조 장치는 인체의 구조에 따라 고관절의 움직임과 발목 관절의 움직임을 효과적으로 연동하여 작고 가벼우며 착용하기 편리하면서도 보행 동작을 자연스럽게 보조할 수 있는 효과가 있다.",
+      "title_original": "의료기기/장치 > 신체기능 복원/보조장치 > 재활훈련/보조장치고관절 발목 연동형 보행 보조 장치대표 발명자조규진등록 번호10-2495560등록일2023-01-31본 발명은 고관절 발목 연동형 보행 보조 장치에 관한 것으로서, 더욱 상세하게는 사용자의 몸에 착용하여 사용자의 움직임에 따른 보행 동작을 보조하는 고관절 발목 연동형 보행 보조 장치에 관한 것이다.\r\n본 발명의 고관절 발목 연동형 보행 보조 장치는 인체의 구조에 따라 고관절의 움직임과 발목 관절의 움직임을 효과적으로 연동하여 작고 가벼우며 착용하기 편리하면서도 보행 동작을 자연스럽게 보조할 수 있는 효과가 있다.",
+      "translated": false,
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.95,
+        "reasoning": "The title describes a device designed to assist with walking by connecting hip and ankle movements, which falls under the category of medical devices focused on rehabilitation and mobility assistance.",
+        "classified_date": "2025-10-18T17:13:14.875316",
+        "method": "smart"
+      }
+    }
+  ]
+}

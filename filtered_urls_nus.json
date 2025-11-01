@@ -1,0 +1,108 @@
+{
+  "parent_url": "https://tech.nus.edu.sg/search/category?category_id=Health-Technologies",
+  "filtered_date": "2025-10-18T16:17:14.105304",
+  "filter_stage": "pre_scraping_filter",
+  "filter_criteria": {
+    "keep_categories": [
+      "Life Sciences",
+      "Medical Devices"
+    ],
+    "min_confidence": 0.7,
+    "llm_mode": "smart"
+  },
+  "statistics": {
+    "total": 33,
+    "life_sciences": 4,
+    "medical_devices": 3,
+    "other": 26,
+    "kept": 7,
+    "discarded": 26
+  },
+  "total_count": 7,
+  "urls": [
+    {
+      "id": "rebuild-restore-reconstruct-improved-method-craniomaxillo-facial-surgery",
+      "url": "http://tech.nus.edu.sg/rebuild-restore-reconstruct-improved-method-craniomaxillo-facial-surgery",
+      "title": "Other, OtherRebuild, Restore, Reconstruct – An Improved Method for Craniomaxillo Facial SurgeryA novel software system for improved facial reconstruction \r\n\r\nPatients suffering from skull deformities, which could be caused by congenital abnormalities, tra...- Leow Wee Kheng, Lim Thiam ChyeTRL6",
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.85,
+        "reasoning": "The title describes a novel software system for improved facial reconstruction in craniomaxillofacial surgery, which falls under the category of medical devices as it pertains to surgical instruments and diagnostic hardware used in medical procedures.",
+        "classified_date": "2025-10-18T16:16:17.471593",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "safe-and-approved-solution-eating-disorders-stapled-relaxin-3-b-chain-peptides-antagonists",
+      "url": "http://tech.nus.edu.sg/safe-and-approved-solution-eating-disorders-stapled-relaxin-3-b-chain-peptides-antagonists",
+      "title": "OtherA Safe and Approved Solution to Eating Disorders- Stapled Relaxin-3 B Chain Peptides AntagonistsAccording to a recent report by the National Association of Anorexia, every 62 minutes at least one person dies due to an eating disorder. The report also indic...- Gavin Stewart DaweTRL4",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.85,
+        "reasoning": "The title discusses a solution related to eating disorders, which falls under therapeutics and potentially involves biological mechanisms, making it relevant to the Life Sciences sector.",
+        "classified_date": "2025-10-18T16:16:23.366595",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "inhaled-protein-therapeutic-treatment-chronic-obstructive-pulmonary-disease",
+      "url": "http://tech.nus.edu.sg/inhaled-protein-therapeutic-treatment-chronic-obstructive-pulmonary-disease",
+      "title": "OtherInhaled protein therapeutic for treatment of Chronic Obstructive Pulmonary DiseaseChronic obstructive pulmonary disease (COPD) is a progressive life-threatening inflammatory lung disease characterized by chronic bronchitis (inflamed airways) ...- Ge Ruowen, Fred Wong Wai-shiuTRL3",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.8,
+        "reasoning": "Keyword heuristic matched bio/health terms",
+        "classified_date": "2025-10-18T16:16:24.131008",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "earlier-detection-lung-cancer-better-patient-outcome",
+      "url": "http://tech.nus.edu.sg/earlier-detection-lung-cancer-better-patient-outcome",
+      "title": "Biomarker panel for early detection of Non-small Cell Lung CancerAmongst cancers, lung cancer is the leading cause of death, killing close to 1.8 million people globally each year. In 2020, about 2.2 million new cases were di...- Boon Cher GOH, Henry YANG, Lingzhi WANG, Sok Hwee, Esther CHEOWTRL3",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title describes a biomarker panel specifically for the early detection of Non-small Cell Lung Cancer, which falls under diagnostics and molecular biology, key components of the Life Sciences sector.",
+        "classified_date": "2025-10-18T16:16:25.257557",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "antisense-oligonucleotide-based-therapy-treatment-liver-cancer",
+      "url": "http://tech.nus.edu.sg/antisense-oligonucleotide-based-therapy-treatment-liver-cancer",
+      "title": "OtherAntisense oligonucleotide-based therapy for treatment of liver cancerHepatocellular carcinoma (HCC) is a primary cancer of the liver and occurs predominantly in patients with underlying chronic liver disease such as Hep B or Hep ...- Chen LeileiTRL3",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.8,
+        "reasoning": "Keyword heuristic matched bio/health terms",
+        "classified_date": "2025-10-18T16:16:25.775739",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "wireless-sensing-medical-sutures-post-surgery-monitoring",
+      "url": "http://tech.nus.edu.sg/wireless-sensing-medical-sutures-post-surgery-monitoring",
+      "title": "OtherWireless Sensing Medical Sutures for Post-Surgery MonitoringSensing technology is changing the way healthcare is delivered, with varied applications from wearable devices to remote healthcare monitoring networks. Globall...- John S Y HoTRL4",
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.85,
+        "reasoning": "The title describes wireless sensing medical sutures, which fall under the category of medical devices due to their application in post-surgery monitoring and healthcare delivery.",
+        "classified_date": "2025-10-18T16:16:28.684089",
+        "method": "smart"
+      }
+    },
+    {
+      "id": "wireless-sensing-medical-sutures-post-surgery-monitoring",
+      "url": "https://tech.nus.edu.sg/wireless-sensing-medical-sutures-post-surgery-monitoring",
+      "title": "Wireless Sensing Medical Sutures for Post-Surgery…",
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.9,
+        "reasoning": "The title refers to 'Wireless Sensing Medical Sutures', which are a type of medical equipment designed for use in surgical procedures and post-operative monitoring, fitting well within the Medical Devices sector.",
+        "classified_date": "2025-10-18T16:16:30.163340",
+        "method": "smart"
+      }
+    }
+  ]
+}

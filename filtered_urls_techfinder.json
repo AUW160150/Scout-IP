@@ -1,0 +1,864 @@
+{
+  "parent_url": "https://techfinder.stanford.edu/",
+  "filtered_date": "2025-10-08T16:03:09.857820",
+  "filter_stage": "pre_scraping_filter",
+  "filter_criteria": {
+    "keep_categories": [
+      "Life Sciences",
+      "Medical Devices"
+    ],
+    "min_confidence": 0.7,
+    "llm_mode": "always"
+  },
+  "statistics": {
+    "total": 100,
+    "life_sciences": 61,
+    "medical_devices": 9,
+    "other": 30,
+    "kept": 70,
+    "discarded": 30
+  },
+  "total_count": 70,
+  "urls": [
+    {
+      "id": "manifold-systematic-characterization-nucleic-acid-thermodynamics-high-throughput",
+      "url": "https://techfinder.stanford.edu/technology/manifold-systematic-characterization-nucleic-acid-thermodynamics-high-throughput",
+      "title": "MANIfold: Systematic characterization of nucleic acid thermodynamics via high-throughput fluorescence melt experiments",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title indicates a focus on nucleic acid thermodynamics and high-throughput fluorescence melt experiments, which are relevant to molecular diagnostics and life-science research tools, fitting well within the Life Sciences sector.",
+        "classified_date": "2025-10-08T15:58:59.200668",
+        "method": "always"
+      }
+    },
+    {
+      "id": "targeting-novel-epitopes-lag-3-immune-checkpoint-inhibitors",
+      "url": "https://techfinder.stanford.edu/technology/targeting-novel-epitopes-lag-3-immune-checkpoint-inhibitors",
+      "title": "Targeting Novel Epitopes on LAG-3 as Immune Checkpoint Inhibitors",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title indicates a focus on immune checkpoint inhibitors, which are a part of therapeutic development in the biotechnology sector, specifically related to cancer immunotherapy. This aligns closely with the Life Sciences sector.",
+        "classified_date": "2025-10-08T15:59:00.643804",
+        "method": "always"
+      }
+    },
+    {
+      "id": "exploiting-dcaf16-mis-splicing-target-cancers-oncogenic-sf3b1-mutations",
+      "url": "https://techfinder.stanford.edu/technology/exploiting-dcaf16-mis-splicing-target-cancers-oncogenic-sf3b1-mutations",
+      "title": "Exploiting DCAF16 Mis-Splicing to Target Cancers with Oncogenic SF3B1 Mutations",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title focuses on targeting cancers through a specific genetic mechanism, which falls under the categories of biotechnology and therapeutics, particularly in the context of cancer treatment and gene therapy.",
+        "classified_date": "2025-10-08T15:59:03.305415",
+        "method": "always"
+      }
+    },
+    {
+      "id": "engineering-gut-microbiome-imaging-and-therapeutic-uses",
+      "url": "https://techfinder.stanford.edu/technology/engineering-gut-microbiome-imaging-and-therapeutic-uses",
+      "title": "Engineering the Gut Microbiome for Imaging and Therapeutic Uses",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title focuses on the gut microbiome, which falls under biotechnology and therapeutics, particularly in the context of imaging and therapeutic applications. This aligns closely with the Life Sciences sector.",
+        "classified_date": "2025-10-08T15:59:09.449866",
+        "method": "always"
+      }
+    },
+    {
+      "id": "mutant-il-9-receptor-platform-enhanced-adoptive-t-cell-therapy",
+      "url": "https://techfinder.stanford.edu/technology/mutant-il-9-receptor-platform-enhanced-adoptive-t-cell-therapy",
+      "title": "Mutant IL-9 Receptor Platform for Enhanced Adoptive T Cell Therapy",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to a platform related to adoptive T cell therapy, which falls under the category of biotechnology and therapeutics, specifically focusing on gene/cell therapy and immunotherapy approaches.",
+        "classified_date": "2025-10-08T15:59:11.963882",
+        "method": "always"
+      }
+    },
+    {
+      "id": "montage-unlocking-spatial-biology-analyze-tumour-microenvironment",
+      "url": "https://techfinder.stanford.edu/technology/montage-unlocking-spatial-biology-analyze-tumour-microenvironment",
+      "title": "MONTAGE: Unlocking Spatial Biology to Analyze Tumour Microenvironment",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title suggests a focus on spatial biology and tumor microenvironment analysis, which aligns with life sciences, particularly in the context of biotechnology and therapeutics related to cancer research.",
+        "classified_date": "2025-10-08T15:59:13.544930",
+        "method": "always"
+      }
+    },
+    {
+      "id": "transcription-factor-driven-hipsc-differentiation-platform-3d-cardiac-tissue-engineering",
+      "url": "https://techfinder.stanford.edu/technology/transcription-factor-driven-hipsc-differentiation-platform-3d-cardiac-tissue-engineering",
+      "title": "Transcription Factor-Driven hiPSC Differentiation Platform for 3D Cardiac Tissue Engineering",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title describes a platform focused on differentiation of human induced pluripotent stem cells (hiPSCs) for cardiac tissue engineering, which falls under biotechnology and therapeutics within the Life Sciences sector.",
+        "classified_date": "2025-10-08T15:59:16.411872",
+        "method": "always"
+      }
+    },
+    {
+      "id": "biomarker-osteoarthritis-detection",
+      "url": "https://techfinder.stanford.edu/technology/biomarker-osteoarthritis-detection",
+      "title": "Biomarker for Osteoarthritis Detection",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to a biomarker, which falls under diagnostics, a key component of the Life Sciences sector. It specifically relates to the detection of a medical condition (osteoarthritis), aligning with the focus on diagnostics and research tools in this sector.",
+        "classified_date": "2025-10-08T15:59:19.075274",
+        "method": "always"
+      }
+    },
+    {
+      "id": "gene-set-diagnosis-active-pulmonary-tuberculosis",
+      "url": "https://techfinder.stanford.edu/technology/gene-set-diagnosis-active-pulmonary-tuberculosis",
+      "title": "Gene Set for the Diagnosis of Active Pulmonary Tuberculosis",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title pertains to a gene set used for diagnosing a specific disease, which falls under diagnostics in the life sciences sector, particularly in the context of molecular diagnostics and infectious diseases.",
+        "classified_date": "2025-10-08T15:59:21.344587",
+        "method": "always"
+      }
+    },
+    {
+      "id": "tuning-ultrasound-modulate-brain-states",
+      "url": "https://techfinder.stanford.edu/technology/tuning-ultrasound-modulate-brain-states",
+      "title": "Tuning Ultrasound to Modulate Brain States",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.85,
+        "reasoning": "The title suggests a focus on using ultrasound technology for neuromodulation, which falls under therapeutic applications in the life sciences sector, particularly related to brain states and potential treatments.",
+        "classified_date": "2025-10-08T15:59:24.806334",
+        "method": "always"
+      }
+    },
+    {
+      "id": "system-assessing-neuropsychiatric-brain-states-using-neural-and-behavioral-biomarkers",
+      "url": "https://techfinder.stanford.edu/technology/system-assessing-neuropsychiatric-brain-states-using-neural-and-behavioral-biomarkers",
+      "title": "A System for Assessing Neuropsychiatric Brain States Using Neural and Behavioral Biomarkers",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.85,
+        "reasoning": "The title indicates a focus on assessing brain states through neural and behavioral biomarkers, which aligns with life sciences, particularly in the context of diagnostics and neuromodulation protocols for therapy.",
+        "classified_date": "2025-10-08T15:59:29.009197",
+        "method": "always"
+      }
+    },
+    {
+      "id": "combined-kidney-and-hematopoietic-cells-transplantation-tolerance",
+      "url": "https://techfinder.stanford.edu/technology/combined-kidney-and-hematopoietic-cells-transplantation-tolerance",
+      "title": "Combined Kidney and Hematopoietic Cells for Transplantation Tolerance",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to combined kidney and hematopoietic cells, which relates to transplant tolerance, a key area in biotechnology and therapeutics focused on organ transplantation and immune response modulation.",
+        "classified_date": "2025-10-08T15:59:30.544581",
+        "method": "always"
+      }
+    },
+    {
+      "id": "potent-lif-receptor-trap-cancer-therapeutic",
+      "url": "https://techfinder.stanford.edu/technology/potent-lif-receptor-trap-cancer-therapeutic",
+      "title": "Potent LIF Receptor \"Trap\" as Cancer Therapeutic",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to a therapeutic approach targeting the LIF receptor, which falls under the category of biotechnology and therapeutics, making it a clear fit for the Life Sciences sector.",
+        "classified_date": "2025-10-08T15:59:35.481758",
+        "method": "always"
+      }
+    },
+    {
+      "id": "crispr-cas13d-therapeutic-platform-targeted-uveal-melanoma-treatment",
+      "url": "https://techfinder.stanford.edu/technology/crispr-cas13d-therapeutic-platform-targeted-uveal-melanoma-treatment",
+      "title": "CRISPR-Cas13d Therapeutic Platform for Targeted Uveal Melanoma Treatment",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The CRISPR-Cas13d therapeutic platform is a biotechnology approach focused on gene editing for targeted treatment of uveal melanoma, which falls under therapeutics and gene therapy within the Life Sciences sector.",
+        "classified_date": "2025-10-08T15:59:39.099858",
+        "method": "always"
+      }
+    },
+    {
+      "id": "brain-spanning-tissue-capture-and-sequencing-living-humans-methods-collection-processing",
+      "url": "https://techfinder.stanford.edu/technology/brain-spanning-tissue-capture-and-sequencing-living-humans-methods-collection-processing",
+      "title": "Brain-spanning Tissue Capture and Sequencing from Living Humans: Methods for Collection, Processing and Analysis of Tissue Residue on Intracranial Electrodes",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title involves methods for tissue capture and sequencing, which are closely related to biotechnology and diagnostics, particularly in the context of brain research and potential therapeutic applications.",
+        "classified_date": "2025-10-08T15:59:44.058161",
+        "method": "always"
+      }
+    },
+    {
+      "id": "engineered-nanobodies-protect-against-viral-and-microbial-contamination-closed-and-semi",
+      "url": "https://techfinder.stanford.edu/technology/engineered-nanobodies-protect-against-viral-and-microbial-contamination-closed-and-semi",
+      "title": "Engineered Nanobodies to Protect against Viral and Microbial Contamination in Closed and Semi-enclosed Spaces",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title refers to engineered nanobodies, which are a type of therapeutic biologic aimed at protecting against viral and microbial contamination, fitting well within the biotechnology and therapeutics sub-sector of Life Sciences.",
+        "classified_date": "2025-10-08T15:59:46.111423",
+        "method": "always"
+      }
+    },
+    {
+      "id": "rewiring-cellular-signaling-trikines",
+      "url": "https://techfinder.stanford.edu/technology/rewiring-cellular-signaling-trikines",
+      "title": "Rewiring Cellular Signaling via Trikines",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title 'Rewiring Cellular Signaling via Trikines' suggests a focus on cellular mechanisms and signaling pathways, which are central to biotechnology and therapeutics. This aligns well with the Life Sciences sector, particularly in the context of drug development and biological research.",
+        "classified_date": "2025-10-08T15:59:54.301361",
+        "method": "always"
+      }
+    },
+    {
+      "id": "enzymes-and-platform-high-efficiency-heterologous-production-taxanes",
+      "url": "https://techfinder.stanford.edu/technology/enzymes-and-platform-high-efficiency-heterologous-production-taxanes",
+      "title": "Enzymes and Platform for High-Efficiency Heterologous Production of Taxanes",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to enzymes and a platform for the production of taxanes, which are biologically active compounds used in pharmaceuticals. This aligns closely with the Life Sciences sector, particularly in biotechnology and therapeutics.",
+        "classified_date": "2025-10-08T15:59:56.346256",
+        "method": "always"
+      }
+    },
+    {
+      "id": "method-improved-pathogen-detection",
+      "url": "https://techfinder.stanford.edu/technology/method-improved-pathogen-detection",
+      "title": "Method for Improved Pathogen Detection",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title 'Method for Improved Pathogen Detection' suggests a focus on diagnostics, which falls under the Life Sciences sector, particularly in the area of molecular and biochemical diagnostics.",
+        "classified_date": "2025-10-08T15:59:58.803100",
+        "method": "always"
+      }
+    },
+    {
+      "id": "genetically-targeted-photocatalytic-organic-dyes-cell-specific-light-activated-chemical",
+      "url": "https://techfinder.stanford.edu/technology/genetically-targeted-photocatalytic-organic-dyes-cell-specific-light-activated-chemical",
+      "title": "Genetically Targeted Photocatalytic Organic Dyes for Cell-Specific, Light-Activated Chemical Synthesis",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title suggests a focus on genetically targeted compounds and their application in chemical synthesis at the cellular level, which aligns with biotechnology and therapeutic development within the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:00:00.851603",
+        "method": "always"
+      }
+    },
+    {
+      "id": "ultrasound-guided-3d-printing-conductive-polymers-bioelectronics-tissue",
+      "url": "https://techfinder.stanford.edu/technology/ultrasound-guided-3d-printing-conductive-polymers-bioelectronics-tissue",
+      "title": "Ultrasound-guided 3D Printing of Conductive Polymers for Bioelectronics in Tissue",
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.85,
+        "reasoning": "The title involves ultrasound technology and 3D printing, which are primarily associated with medical devices, particularly in the context of bioelectronics and tissue applications.",
+        "classified_date": "2025-10-08T16:00:02.970930",
+        "method": "always"
+      }
+    },
+    {
+      "id": "explainable-computational-methods-predicting-treatment-response-immunotherapy-histology",
+      "url": "https://techfinder.stanford.edu/technology/explainable-computational-methods-predicting-treatment-response-immunotherapy-histology",
+      "title": "Explainable Computational Methods for Predicting Treatment Response to Immunotherapy from Histology Images of Non-Small-Cell Lung Cancer",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title focuses on computational methods for predicting treatment response in a cancer context, which falls under the realm of diagnostics and therapeutics in life sciences, particularly related to immunotherapy and histology analysis.",
+        "classified_date": "2025-10-08T16:00:04.743814",
+        "method": "always"
+      }
+    },
+    {
+      "id": "neuromonitoring-guided-cognitive-intervention-targeted-enhancement-working-memory",
+      "url": "https://techfinder.stanford.edu/technology/neuromonitoring-guided-cognitive-intervention-targeted-enhancement-working-memory",
+      "title": "Neuromonitoring-guided cognitive intervention for targeted enhancement of working memory networks",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.85,
+        "reasoning": "The title involves neuromonitoring and cognitive intervention, which relates to therapeutic approaches and neuromodulation protocols for therapy, fitting well within the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:00:07.814926",
+        "method": "always"
+      }
+    },
+    {
+      "id": "quantitative-parkinsons-disease-rigidity-measurement-system",
+      "url": "https://techfinder.stanford.edu/technology/quantitative-parkinsons-disease-rigidity-measurement-system",
+      "title": "Quantitative Parkinson's Disease Rigidity Measurement System",
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.9,
+        "reasoning": "The title refers to a measurement system specifically designed for assessing rigidity in Parkinson's disease, which falls under diagnostic hardware and monitoring devices used in medical settings.",
+        "classified_date": "2025-10-08T16:00:09.452759",
+        "method": "always"
+      }
+    },
+    {
+      "id": "albumin-shielded-aav-vectors-repeatable-and-safer-gene-therapy",
+      "url": "https://techfinder.stanford.edu/technology/albumin-shielded-aav-vectors-repeatable-and-safer-gene-therapy",
+      "title": "Albumin-Shielded AAV Vectors for Repeatable and Safer Gene Therapy",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to AAV vectors, which are used in gene therapy, a key area within the Life Sciences sector. The focus on gene therapy indicates a strong alignment with biotechnology and therapeutics.",
+        "classified_date": "2025-10-08T16:00:14.474243",
+        "method": "always"
+      }
+    },
+    {
+      "id": "modular-human-brain-organoids-neurological-disease-modeling",
+      "url": "https://techfinder.stanford.edu/technology/modular-human-brain-organoids-neurological-disease-modeling",
+      "title": "Modular Human Brain Organoids for Neurological Disease Modeling",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to 'Modular Human Brain Organoids', which are related to biotechnology and life sciences, particularly in the context of modeling neurological diseases. This aligns closely with the life sciences sector, which includes research tools and therapeutics.",
+        "classified_date": "2025-10-08T16:00:31.162556",
+        "method": "always"
+      }
+    },
+    {
+      "id": "hipk4-degraders-oral-reversible-non-hormonal-male-contraceptives",
+      "url": "https://techfinder.stanford.edu/technology/hipk4-degraders-oral-reversible-non-hormonal-male-contraceptives",
+      "title": "HIPK4 Degraders for Oral, Reversible, Non-Hormonal Male Contraceptives",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to HIPK4 degraders, which are likely related to therapeutic development for male contraception, fitting within the biotechnology and therapeutics sub-sector of Life Sciences.",
+        "classified_date": "2025-10-08T16:00:33.006667",
+        "method": "always"
+      }
+    },
+    {
+      "id": "biomarker-informed-diagnostic-algorithm-predicting-sleep-disorders",
+      "url": "https://techfinder.stanford.edu/technology/biomarker-informed-diagnostic-algorithm-predicting-sleep-disorders",
+      "title": "A Biomarker-Informed Diagnostic Algorithm for Predicting Sleep Disorders",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title involves a diagnostic algorithm related to biomarkers, which falls under the life sciences sector, particularly in diagnostics and research tools.",
+        "classified_date": "2025-10-08T16:00:34.642957",
+        "method": "always"
+      }
+    },
+    {
+      "id": "3d-spatial-single-cell-omics-jetlet-barcoding",
+      "url": "https://techfinder.stanford.edu/technology/3d-spatial-single-cell-omics-jetlet-barcoding",
+      "title": "3D spatial single cell omics by jetlet barcoding",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title refers to a technology related to single cell omics, which falls under the category of life sciences as it involves advanced biological research tools and techniques for understanding cellular functions and interactions.",
+        "classified_date": "2025-10-08T16:00:37.206778",
+        "method": "always"
+      }
+    },
+    {
+      "id": "trogotacs-bispecific-chimeras-targeted-protein-transfer",
+      "url": "https://techfinder.stanford.edu/technology/trogotacs-bispecific-chimeras-targeted-protein-transfer",
+      "title": "TrogoTACs - Bispecific Chimeras for Targeted Protein Transfer",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "TrogoTACs are bispecific chimeras designed for targeted protein transfer, which falls under the category of biotechnology and therapeutics, making 'Life Sciences' the most appropriate sector.",
+        "classified_date": "2025-10-08T16:00:39.353452",
+        "method": "always"
+      }
+    },
+    {
+      "id": "precision-single-cell-antimicrobial-susceptibility-testing-using-patient-body-fluids-or",
+      "url": "https://techfinder.stanford.edu/technology/precision-single-cell-antimicrobial-susceptibility-testing-using-patient-body-fluids-or",
+      "title": "Precision Single-Cell Antimicrobial Susceptibility Testing using Patient Body Fluids or Tissues for Personalized Infection Treatment",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title focuses on antimicrobial susceptibility testing, which falls under diagnostics and personalized medicine, both of which are key components of the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:00:41.142900",
+        "method": "always"
+      }
+    },
+    {
+      "id": "special-oral-formula-decreasing-food-allergy-risk",
+      "url": "https://techfinder.stanford.edu/technology/special-oral-formula-decreasing-food-allergy-risk",
+      "title": "Special Oral Formula for Decreasing Food Allergy Risk",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title suggests a focus on a specialized formula aimed at reducing food allergy risk, which aligns with the life sciences sector, particularly in the areas of therapeutics and potentially biologics related to allergy prevention.",
+        "classified_date": "2025-10-08T16:00:43.451045",
+        "method": "always"
+      }
+    },
+    {
+      "id": "synthetic-jakstat-signaling-domains-program-cell-function",
+      "url": "https://techfinder.stanford.edu/technology/synthetic-jakstat-signaling-domains-program-cell-function",
+      "title": "Synthetic JAK/STAT Signaling Domains to Program Cell Function",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to synthetic signaling domains that are likely related to cell therapy or gene therapy, which falls under the biotechnology and therapeutics category within Life Sciences.",
+        "classified_date": "2025-10-08T16:00:45.266543",
+        "method": "always"
+      }
+    },
+    {
+      "id": "3d-opto-seq-ai-assisted-label-free-optical-platform-characterize-nano-and-micro-vesicles",
+      "url": "https://techfinder.stanford.edu/technology/3d-opto-seq-ai-assisted-label-free-optical-platform-characterize-nano-and-micro-vesicles",
+      "title": "3D-Opto-SEQ: An AI-assisted label-free optical platform to characterize nano and micro-vesicles and biological tissues",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.85,
+        "reasoning": "The title describes a platform that characterizes biological tissues and nano/micro-vesicles, which aligns with life sciences research tools and diagnostics. The focus on biological characterization suggests a strong connection to the life sciences sector.",
+        "classified_date": "2025-10-08T16:00:47.138043",
+        "method": "always"
+      }
+    },
+    {
+      "id": "dual-agent-conditioning-improves-hematopoietic-stem-cell-engraftment",
+      "url": "https://techfinder.stanford.edu/technology/dual-agent-conditioning-improves-hematopoietic-stem-cell-engraftment",
+      "title": "Dual-Agent Conditioning Improves Hematopoietic Stem Cell Engraftment",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title suggests a focus on hematopoietic stem cells, which falls under biotechnology and therapeutics, particularly in the context of improving stem cell engraftment, a key area in regenerative medicine and transplantation.",
+        "classified_date": "2025-10-08T16:00:48.984045",
+        "method": "always"
+      }
+    },
+    {
+      "id": "cooling-device-preventing-oral-mucositis",
+      "url": "https://techfinder.stanford.edu/technology/cooling-device-preventing-oral-mucositis",
+      "title": "Cooling Device for Preventing Oral Mucositis",
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.85,
+        "reasoning": "The cooling device is a medical equipment designed to prevent oral mucositis, which falls under the category of medical devices used for therapeutic purposes in patient care.",
+        "classified_date": "2025-10-08T16:00:50.618978",
+        "method": "always"
+      }
+    },
+    {
+      "id": "systems-devices-and-methods-analyzing-exhaled-breath-detect-indications-bacterial",
+      "url": "https://techfinder.stanford.edu/technology/systems-devices-and-methods-analyzing-exhaled-breath-detect-indications-bacterial",
+      "title": "Systems, Devices, and Methods Analyzing Exhaled Breath to Detect Indications of a Bacterial Infection",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title describes systems and methods for analyzing exhaled breath to detect bacterial infections, which falls under diagnostics and life-science research tools, both of which are key components of the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:00:52.258261",
+        "method": "always"
+      }
+    },
+    {
+      "id": "milli-spinner-thrombectomy-device-effective-and-safe-blood-clot-removal",
+      "url": "https://techfinder.stanford.edu/technology/milli-spinner-thrombectomy-device-effective-and-safe-blood-clot-removal",
+      "title": "A Milli-Spinner Thrombectomy Device for Effective and Safe Blood Clot Removal",
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.95,
+        "reasoning": "The title describes a thrombectomy device, which falls under the category of medical equipment designed for surgical procedures, specifically for the removal of blood clots.",
+        "classified_date": "2025-10-08T16:00:53.897159",
+        "method": "always"
+      }
+    },
+    {
+      "id": "mouth-cooling-offers-relief-oral-mucositis",
+      "url": "https://techfinder.stanford.edu/technology/mouth-cooling-offers-relief-oral-mucositis",
+      "title": "Mouth Cooling Offers Relief for Oral Mucositis",
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.85,
+        "reasoning": "The title suggests a device or method designed to alleviate symptoms of oral mucositis, which aligns with the medical devices sector focused on therapeutic interventions and health-tech solutions.",
+        "classified_date": "2025-10-08T16:00:55.631533",
+        "method": "always"
+      }
+    },
+    {
+      "id": "targeting-muscarinic-receptors-chrm1-and-chrm3-diffuse-midline-glioma-therapy",
+      "url": "https://techfinder.stanford.edu/technology/targeting-muscarinic-receptors-chrm1-and-chrm3-diffuse-midline-glioma-therapy",
+      "title": "Targeting Muscarinic Receptors CHRM1 and CHRM3 for Diffuse Midline Glioma Therapy",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title indicates a focus on targeting specific receptors for therapy, which aligns with the biotechnology and therapeutics aspects of the Life Sciences sector, particularly in the context of cancer treatment.",
+        "classified_date": "2025-10-08T16:00:57.290551",
+        "method": "always"
+      }
+    },
+    {
+      "id": "selective-organ-and-cell-type-vivo-delivery-rna-using-gser-carts",
+      "url": "https://techfinder.stanford.edu/technology/selective-organ-and-cell-type-vivo-delivery-rna-using-gser-carts",
+      "title": "Selective Organ and Cell-type in vivo Delivery of RNA Using GSer-CARTs",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title indicates a focus on RNA delivery systems, which falls under gene therapy and biotechnology, both of which are key components of the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:01:00.345914",
+        "method": "always"
+      }
+    },
+    {
+      "id": "new-method-maintainingsustaining-mammalian-embryonic-stem-cell-pluripotency-culture",
+      "url": "https://techfinder.stanford.edu/technology/new-method-maintainingsustaining-mammalian-embryonic-stem-cell-pluripotency-culture",
+      "title": "New method of maintaining/sustaining mammalian embryonic stem cell pluripotency in culture",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title pertains to a method related to maintaining pluripotency in embryonic stem cells, which falls under biotechnology and life sciences research tools, focusing on cellular biology and regenerative medicine.",
+        "classified_date": "2025-10-08T16:01:02.023112",
+        "method": "always"
+      }
+    },
+    {
+      "id": "direct-method-estimating-fraction-t-and-bplasma-cell-derived-dna",
+      "url": "https://techfinder.stanford.edu/technology/direct-method-estimating-fraction-t-and-bplasma-cell-derived-dna",
+      "title": "Direct method for estimating the fraction of T and B/plasma cell-derived DNA",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title pertains to a method for estimating DNA derived from immune cells, which falls under diagnostics and life-science research tools, both of which are key components of the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:01:03.893518",
+        "method": "always"
+      }
+    },
+    {
+      "id": "methods-generating-pooled-rna-oligos-multiplexed-chromosome-targeting-imaging-and",
+      "url": "https://techfinder.stanford.edu/technology/methods-generating-pooled-rna-oligos-multiplexed-chromosome-targeting-imaging-and",
+      "title": "Methods for Generating Pooled RNA Oligos for Multiplexed Chromosome Targeting, Imaging, and Perturbation",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title indicates a focus on RNA oligos and their application in chromosome targeting and imaging, which aligns with biotechnology and life sciences research tools.",
+        "classified_date": "2025-10-08T16:01:05.842639",
+        "method": "always"
+      }
+    },
+    {
+      "id": "computational-pipeline-accelerated-identification-disease-causing-variants-ultra-rapid",
+      "url": "https://techfinder.stanford.edu/technology/computational-pipeline-accelerated-identification-disease-causing-variants-ultra-rapid",
+      "title": "Computational Pipeline for Accelerated Identification of Disease-causing Variants with Ultra-Rapid Nanopore Genome Sequencing",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title describes a computational pipeline focused on genome sequencing, which falls under diagnostics and life-science research tools, both of which are key components of the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:01:07.519870",
+        "method": "always"
+      }
+    },
+    {
+      "id": "minimally-invasive-catheter-system-improved-treatment-lymphedema",
+      "url": "https://techfinder.stanford.edu/technology/minimally-invasive-catheter-system-improved-treatment-lymphedema",
+      "title": "Minimally Invasive Catheter System for Improved Treatment of Lymphedema",
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.9,
+        "reasoning": "The title refers to a catheter system, which falls under medical equipment and devices used for treatment, specifically in the context of lymphedema management.",
+        "classified_date": "2025-10-08T16:01:09.591478",
+        "method": "always"
+      }
+    },
+    {
+      "id": "multi-functional-injectable-alginate-collagen-hydrogel-targeted-therapeutic-delivery",
+      "url": "https://techfinder.stanford.edu/technology/multi-functional-injectable-alginate-collagen-hydrogel-targeted-therapeutic-delivery",
+      "title": "Multi-Functional Injectable Alginate-Collagen Hydrogel for Targeted Therapeutic Delivery",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title indicates a focus on a hydrogel designed for therapeutic delivery, which aligns with biotechnology and therapeutics within the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:01:17.457315",
+        "method": "always"
+      }
+    },
+    {
+      "id": "liquid-biopsy-approach-distinguish-leiomyosarcoma-leiomyoma-uterus",
+      "url": "https://techfinder.stanford.edu/technology/liquid-biopsy-approach-distinguish-leiomyosarcoma-leiomyoma-uterus",
+      "title": "A Liquid Biopsy Approach to Distinguish Leiomyosarcoma from Leiomyoma in the Uterus",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title indicates a focus on a liquid biopsy, which is a diagnostic method related to molecular and biochemical analysis, specifically in the context of distinguishing between two types of tumors. This aligns closely with the Life Sciences sector, particularly in diagnostics and therapeutics.",
+        "classified_date": "2025-10-08T16:01:19.698664",
+        "method": "always"
+      }
+    },
+    {
+      "id": "constitutively-active-il-9r-signaling-engineered-t-cell-therapy",
+      "url": "https://techfinder.stanford.edu/technology/constitutively-active-il-9r-signaling-engineered-t-cell-therapy",
+      "title": "Constitutively Active IL-9R Signaling for Engineered T Cell Therapy",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to engineered T cell therapy, which falls under biotechnology and therapeutics, specifically related to immunotherapy and gene/cell therapy, making it a clear fit for the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:01:23.784839",
+        "method": "always"
+      }
+    },
+    {
+      "id": "dna-elements-episome-retention-human-cells",
+      "url": "https://techfinder.stanford.edu/technology/dna-elements-episome-retention-human-cells",
+      "title": "DNA Elements for Episome Retention in Human Cells",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title pertains to DNA elements and their role in episome retention, which falls under the category of biotechnology and genetic research, making it a clear fit for the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:01:25.438831",
+        "method": "always"
+      }
+    },
+    {
+      "id": "large-scale-electrophysiology-amplification-platform-leap",
+      "url": "https://techfinder.stanford.edu/technology/large-scale-electrophysiology-amplification-platform-leap",
+      "title": "Large-scale electrophysiology amplification platform (LEAP)",
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.85,
+        "reasoning": "The Large-scale electrophysiology amplification platform (LEAP) is primarily focused on diagnostic hardware and monitoring devices used in the field of electrophysiology, which aligns it more closely with the Medical Devices sector.",
+        "classified_date": "2025-10-08T16:01:27.256498",
+        "method": "always"
+      }
+    },
+    {
+      "id": "treatment-gliomas-anti-b7h3-car-t-cells",
+      "url": "https://techfinder.stanford.edu/technology/treatment-gliomas-anti-b7h3-car-t-cells",
+      "title": "Treatment of Gliomas with Anti-B7H3 CAR-T Cells",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to a therapeutic approach using CAR-T cell therapy, which falls under biotechnology and therapeutics, specifically targeting gliomas, a type of cancer. This aligns closely with the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:01:30.568473",
+        "method": "always"
+      }
+    },
+    {
+      "id": "multiplexed-ion-beam-imaging-high-resolution-high-sensitivity-quantitative-tissue",
+      "url": "https://techfinder.stanford.edu/technology/multiplexed-ion-beam-imaging-high-resolution-high-sensitivity-quantitative-tissue",
+      "title": "Multiplexed Ion Beam Imaging: High-resolution, High-sensitivity, Quantitative Tissue Imaging",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "Multiplexed Ion Beam Imaging is a technology used for high-resolution tissue imaging, which falls under life sciences as it relates to biological research and diagnostics.",
+        "classified_date": "2025-10-08T16:01:32.631255",
+        "method": "always"
+      }
+    },
+    {
+      "id": "fully-human-cd19-targeted-car-t-cells-cancer-treatment",
+      "url": "https://techfinder.stanford.edu/technology/fully-human-cd19-targeted-car-t-cells-cancer-treatment",
+      "title": "Fully Human CD19-Targeted CAR T Cells for Cancer Treatment",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to CAR T cell therapy, which is a form of gene therapy and falls under the category of biotechnology and therapeutics aimed at treating cancer.",
+        "classified_date": "2025-10-08T16:01:34.137104",
+        "method": "always"
+      }
+    },
+    {
+      "id": "enhancing-car-t-cell-therapy-solid-tumors-multi-specific-engineering-and-exhaustion",
+      "url": "https://techfinder.stanford.edu/technology/enhancing-car-t-cell-therapy-solid-tumors-multi-specific-engineering-and-exhaustion",
+      "title": "Enhancing CAR T-Cell Therapy for Solid Tumors with Multi-Specific Engineering and Exhaustion Resistance",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title focuses on CAR T-Cell Therapy, which is a form of gene/cell therapy aimed at treating solid tumors. This falls squarely within the Life Sciences sector, particularly in the areas of biotechnology and therapeutics.",
+        "classified_date": "2025-10-08T16:01:36.800027",
+        "method": "always"
+      }
+    },
+    {
+      "id": "digital-telomere-measurement-oxford-nanopore-sequencing",
+      "url": "https://techfinder.stanford.edu/technology/digital-telomere-measurement-oxford-nanopore-sequencing",
+      "title": "Digital telomere measurement by Oxford Nanopore sequencing",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The technology involves a biological measurement related to telomeres, which is relevant to genetics and molecular diagnostics, fitting well within the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:01:46.796019",
+        "method": "always"
+      }
+    },
+    {
+      "id": "analysis-and-prediction-platform-patient-monitoring",
+      "url": "https://techfinder.stanford.edu/technology/analysis-and-prediction-platform-patient-monitoring",
+      "title": "Analysis and prediction platform for patient monitoring",
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.85,
+        "reasoning": "The title refers to a platform focused on patient monitoring, which aligns closely with health-tech devices and diagnostic hardware, making it a fit for the Medical Devices sector.",
+        "classified_date": "2025-10-08T16:01:48.587027",
+        "method": "always"
+      }
+    },
+    {
+      "id": "using-protein-signaling-promote-regenerative-wound-healing-and-reduce-scarring",
+      "url": "https://techfinder.stanford.edu/technology/using-protein-signaling-promote-regenerative-wound-healing-and-reduce-scarring",
+      "title": "Using protein signaling to promote regenerative wound healing and reduce scarring",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title focuses on using protein signaling, which relates to biological processes and therapeutic applications aimed at wound healing and scarring reduction, fitting well within the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:01:50.829310",
+        "method": "always"
+      }
+    },
+    {
+      "id": "highly-effective-b7-h3-car-t-cells-targeted-cancer-therapy",
+      "url": "https://techfinder.stanford.edu/technology/highly-effective-b7-h3-car-t-cells-targeted-cancer-therapy",
+      "title": "Highly Effective B7-H3 CAR-T Cells for Targeted Cancer Therapy",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to CAR-T cell therapy, which is a form of gene therapy and falls under the category of therapeutics within the Life Sciences sector, specifically targeting cancer treatment.",
+        "classified_date": "2025-10-08T16:01:52.620631",
+        "method": "always"
+      }
+    },
+    {
+      "id": "treating-cognitive-impairment-cancer-immunotherapy-chemokine-receptor-inhibition",
+      "url": "https://techfinder.stanford.edu/technology/treating-cognitive-impairment-cancer-immunotherapy-chemokine-receptor-inhibition",
+      "title": "Treating Cognitive Impairment from Cancer Immunotherapy by Chemokine Receptor Inhibition",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title focuses on treating cognitive impairment, which relates to therapeutics and potentially involves biological mechanisms, aligning it closely with the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:01:54.105099",
+        "method": "always"
+      }
+    },
+    {
+      "id": "solution-phase-gold-films-microarrays-and-molecular-imaging",
+      "url": "https://techfinder.stanford.edu/technology/solution-phase-gold-films-microarrays-and-molecular-imaging",
+      "title": "Solution-phase gold films for microarrays and molecular imaging",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.85,
+        "reasoning": "The title refers to solution-phase gold films, which are likely used in microarrays and molecular imaging applications, both of which fall under the life sciences category, particularly in diagnostics and research tools.",
+        "classified_date": "2025-10-08T16:02:10.490043",
+        "method": "always"
+      }
+    },
+    {
+      "id": "antibodies-directed-against-osteopontin-and-thrombin-cleaved-osteopontin",
+      "url": "https://techfinder.stanford.edu/technology/antibodies-directed-against-osteopontin-and-thrombin-cleaved-osteopontin",
+      "title": "Antibodies Directed Against Osteopontin and Thrombin-cleaved Osteopontin",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title refers to antibodies, which are biologics used in therapeutics and diagnostics, aligning closely with the Life Sciences sector focused on biotechnology and therapeutics.",
+        "classified_date": "2025-10-08T16:02:14.175341",
+        "method": "always"
+      }
+    },
+    {
+      "id": "enhanced-vaccine-efficacy-using-mrna-lnp-adjuvants",
+      "url": "https://techfinder.stanford.edu/technology/enhanced-vaccine-efficacy-using-mrna-lnp-adjuvants",
+      "title": "Enhanced vaccine efficacy using mRNA-LNP adjuvants",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title pertains to vaccine development, specifically focusing on mRNA technology and adjuvants, which are key components in the biotechnology and therapeutics sector.",
+        "classified_date": "2025-10-08T16:02:17.350806",
+        "method": "always"
+      }
+    },
+    {
+      "id": "lusutrombopag-used-stable-and-reproducible-human-ex-vivo-hematopoietic-stemprogenitor",
+      "url": "https://techfinder.stanford.edu/technology/lusutrombopag-used-stable-and-reproducible-human-ex-vivo-hematopoietic-stemprogenitor",
+      "title": "Lusutrombopag is used for stable and reproducible human ex vivo hematopoietic stem/progenitor cells expansion",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "Lusutrombopag is a therapeutic agent related to hematopoietic stem/progenitor cell expansion, which falls under the biotechnology and therapeutics category within the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:02:20.933897",
+        "method": "always"
+      }
+    },
+    {
+      "id": "equivalent-expression-index-novel-algorithm-identifying-gene-signatures-metastases",
+      "url": "https://techfinder.stanford.edu/technology/equivalent-expression-index-novel-algorithm-identifying-gene-signatures-metastases",
+      "title": "Equivalent Expression Index: A Novel Algorithm for Identifying Gene Signatures in Metastases",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.95,
+        "reasoning": "The title indicates a focus on gene signatures, which falls under biotechnology and genomics, key components of the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:02:35.475029",
+        "method": "always"
+      }
+    },
+    {
+      "id": "see-inside-body-transparent-tissue-promises-new-imaging-and-surgical-technology",
+      "url": "https://techfinder.stanford.edu/technology/see-inside-body-transparent-tissue-promises-new-imaging-and-surgical-technology",
+      "title": "See Inside the Body: Transparent Tissue Promises New Imaging and Surgical Technology",
+      "classification": {
+        "mainSector": "Medical Devices",
+        "confidence": 0.85,
+        "reasoning": "The title suggests a focus on imaging and surgical technology, which aligns with the Medical Devices sector, particularly in the context of diagnostic hardware and imaging devices.",
+        "classified_date": "2025-10-08T16:02:40.510358",
+        "method": "always"
+      }
+    },
+    {
+      "id": "magnetic-levitation-platform-extracellular-vesicle-isolation-ev-lev",
+      "url": "https://techfinder.stanford.edu/technology/magnetic-levitation-platform-extracellular-vesicle-isolation-ev-lev",
+      "title": "Magnetic Levitation Platform for Extracellular Vesicle Isolation (EV-Lev)",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The Magnetic Levitation Platform for Extracellular Vesicle Isolation (EV-Lev) is primarily focused on a biotechnology application related to the isolation of extracellular vesicles, which are important in diagnostics and therapeutic research. This aligns closely with the Life Sciences sector.",
+        "classified_date": "2025-10-08T16:02:45.619607",
+        "method": "always"
+      }
+    },
+    {
+      "id": "strategy-more-effective-antibiotics-conjugation-molecular-transporter",
+      "url": "https://techfinder.stanford.edu/technology/strategy-more-effective-antibiotics-conjugation-molecular-transporter",
+      "title": "Strategy for more effective antibiotics- conjugation to a molecular transporter",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title focuses on developing a strategy for antibiotics, which falls under the category of therapeutics and biotechnology, specifically related to drug delivery mechanisms and molecular transporters.",
+        "classified_date": "2025-10-08T16:02:50.249099",
+        "method": "always"
+      }
+    },
+    {
+      "id": "multi-functional-solid-nanoparticle-system-neuproio-glaucoma-therapy-combining",
+      "url": "https://techfinder.stanford.edu/technology/multi-functional-solid-nanoparticle-system-neuproio-glaucoma-therapy-combining",
+      "title": "A multi-functional solid nanoparticle system NeuProIO for glaucoma therapy: combining neuroprotection with intraocular pressure control",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title describes a therapeutic approach for glaucoma that involves a nanoparticle system, which aligns with biotechnology and therapeutics. The focus on neuroprotection and intraocular pressure control indicates a life sciences application, particularly in the context of drug delivery and treatment strategies.",
+        "classified_date": "2025-10-08T16:03:06.679850",
+        "method": "always"
+      }
+    },
+    {
+      "id": "novel-radiopharmaceutical-non-invasive-imaging-ferroptosis-cancer-therapy",
+      "url": "https://techfinder.stanford.edu/technology/novel-radiopharmaceutical-non-invasive-imaging-ferroptosis-cancer-therapy",
+      "title": "Novel Radiopharmaceutical for Non-Invasive Imaging of Ferroptosis in Cancer Therapy",
+      "classification": {
+        "mainSector": "Life Sciences",
+        "confidence": 0.9,
+        "reasoning": "The title describes a radiopharmaceutical, which falls under the category of therapeutics and diagnostics in the life sciences sector, specifically related to cancer therapy and imaging biomarkers.",
+        "classified_date": "2025-10-08T16:03:09.854589",
+        "method": "always"
+      }
+    }
+  ]
+}

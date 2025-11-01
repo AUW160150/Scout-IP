@@ -1,0 +1,258 @@
+{
+  "parent_url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies",
+  "extracted_date": "2025-10-08T16:24:05.407307",
+  "total_count": 50,
+  "max_ips_setting": 50,
+  "urls": [
+    {
+      "id": "preferential-crystallization-fullraavs-hanging-drop",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/preferential-crystallization-fullraavs-hanging-drop",
+      "title": "Preferential Crystallization of fullrAAVs in a Hanging Drop Crystallizer as an Alternative Method for Downstream Purification of rAAV-based GeneTherapies"
+    },
+    {
+      "id": "heater-driven-preemptive-quench-schemes-no-insulation",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/heater-driven-preemptive-quench-schemes-no-insulation",
+      "title": "Heater-Driven Preemptive Quench Schemes for No-Insulation SuperconductingMagnets"
+    },
+    {
+      "id": "surfaces-controlled-cell-adhesion",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/surfaces-controlled-cell-adhesion",
+      "title": "Surfaces for Controlled CellAdhesion"
+    },
+    {
+      "id": "approach-enriching-production-dna-cargo-loaded-aav5-0",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/approach-enriching-production-dna-cargo-loaded-aav5-0",
+      "title": "An Approach for Enriching the Production of DNA Cargo Loaded AAV5 Capsids inCells"
+    },
+    {
+      "id": "synthesis-z-alkenyl-halides-through-stereoselective-0",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/synthesis-z-alkenyl-halides-through-stereoselective-0",
+      "title": "Synthesis of Z-Alkenyl Halides Through Stereoselective OlefinMetathesis"
+    },
+    {
+      "id": "near-infrared-fluorescent-nanosensor-iron",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/near-infrared-fluorescent-nanosensor-iron",
+      "title": "Near Infrared Fluorescent Nanosensor forIron"
+    },
+    {
+      "id": "deep-learning-guided-discovery-narrow-spectrum",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/deep-learning-guided-discovery-narrow-spectrum",
+      "title": "Deep Learning-Guided Discovery of a Narrow-Spectrum Antibiotic Against AcinetobacterBaumannii"
+    },
+    {
+      "id": "thin-films-capturing-heavy-metals",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/thin-films-capturing-heavy-metals",
+      "title": "Thin-Films for Capturing HeavyMetals"
+    },
+    {
+      "id": "curved-conformal-and-hybrid-metasurfaces-and",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/curved-conformal-and-hybrid-metasurfaces-and",
+      "title": "Curved, Conformal and Hybrid Metasurfaces and Fabrication MethodsThereof"
+    },
+    {
+      "id": "automated-optical-measurements-determine",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/automated-optical-measurements-determine",
+      "title": "Automated Optical Measurements to Determine Semiconductor Properties and Predict DevicePerformance"
+    },
+    {
+      "id": "anti-crispr-delivery-compositions-and-methods",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/anti-crispr-delivery-compositions-and-methods",
+      "title": "Anti-Crispr Delivery Compositions andMethods"
+    },
+    {
+      "id": "engineered-protein-rapid-efficient-and-selective",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/engineered-protein-rapid-efficient-and-selective",
+      "title": "Engineered Protein for Rapid, Efficient, and Selective Capture of Pathogen-Specific Antibodies onCellulose"
+    },
+    {
+      "id": "nanobody-based-imaging-and-targeting-ecm-disease-and",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/nanobody-based-imaging-and-targeting-ecm-disease-and",
+      "title": "Nanobody Based Imaging and Targeting of ECM in Disease andDevelopment"
+    },
+    {
+      "id": "methods-and-products-related-improved-analysis",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/methods-and-products-related-improved-analysis",
+      "title": "Methods and Products Related to the Improved Analysis ofCarbohydrates"
+    },
+    {
+      "id": "apparatus-applications-and-method-wearable-mobility",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/apparatus-applications-and-method-wearable-mobility",
+      "title": "Apparatus, Applications and Method of Wearable Mobility AssistanceRobot"
+    },
+    {
+      "id": "hydrodynamically-controlled-electric-fields-high",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/hydrodynamically-controlled-electric-fields-high",
+      "title": "Hydrodynamically Controlled Electric Fields for High Throughput Transformation & High Throughput Parallel TransformationPlatform"
+    },
+    {
+      "id": "cross-linked-graphene-oxide-films-separation",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/cross-linked-graphene-oxide-films-separation",
+      "title": "Cross-linked Graphene Oxide Films for SeparationProcesses"
+    },
+    {
+      "id": "flat-optics-based-systems-and-methods-ocular",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/flat-optics-based-systems-and-methods-ocular",
+      "title": "Flat Optics based Systems and Methods for OcularApplications"
+    },
+    {
+      "id": "random-access-memory-dna-storage",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/random-access-memory-dna-storage",
+      "title": "Random Access Memory DNAStorage"
+    },
+    {
+      "id": "quench-detection-fiber-optic-technology-fbg-and-ulfbg",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/quench-detection-fiber-optic-technology-fbg-and-ulfbg",
+      "title": "Quench Detection with Fiber Optic Technology (FBG and ULFBG) to Detect Onset of Quench In SuperconductingMagnets"
+    },
+    {
+      "id": "new-passivation-method-semiconductor-devices",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/new-passivation-method-semiconductor-devices",
+      "title": "New Passivation Method for SemiconductorDevices"
+    },
+    {
+      "id": "fiber-comprising-micro-devices-and-metal",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/fiber-comprising-micro-devices-and-metal",
+      "title": "Fiber Comprising Micro Devices and Metal Interconnects with ControlledElasticity"
+    },
+    {
+      "id": "synthetic-heparin-mimetics-and-uses-thereof",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/synthetic-heparin-mimetics-and-uses-thereof",
+      "title": "SYNTHETIC HEPARIN MIMETICS AND USESTHEREOF"
+    },
+    {
+      "id": "high-throughput-organ-chip-system",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/high-throughput-organ-chip-system",
+      "title": "High-Throughput Organ on a ChipSystem"
+    },
+    {
+      "id": "ion-caging-scale-prevention-high-recovery",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/ion-caging-scale-prevention-high-recovery",
+      "title": "ION CAGING for Scale Prevention in High Recovery DesalinationSystems"
+    },
+    {
+      "id": "method-diagnosing-allergic-reactions",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/method-diagnosing-allergic-reactions",
+      "title": "Method for Diagnosing AllergicReactions"
+    },
+    {
+      "id": "low-cost-air-particulate-monitor-based-particle",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/low-cost-air-particulate-monitor-based-particle",
+      "title": "Low-Cost Air Particulate Monitor Based on Particle Capture andImaging"
+    },
+    {
+      "id": "nanocrystal-based-three-dimensional-tracking-method",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/nanocrystal-based-three-dimensional-tracking-method",
+      "title": "Nanocrystal Based Three Dimensional Tracking Method with Nanometer SpatialResolution"
+    },
+    {
+      "id": "selective-sulfidation-ore-and-concentrate-cracking",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/selective-sulfidation-ore-and-concentrate-cracking",
+      "title": "Selective Sulfidation for Ore and Concentrate Cracking, Metal Separation, and CompoundProduction"
+    },
+    {
+      "id": "threshold-voltage-engineered-nitride-based-high",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/threshold-voltage-engineered-nitride-based-high",
+      "title": "Threshold Voltage-Engineered Nitride-Based High Performance Transistors for High Frequency and/or High-PowerElectronics"
+    },
+    {
+      "id": "dna-directed-assembly-and-droplet-derived-cell-laden",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/dna-directed-assembly-and-droplet-derived-cell-laden",
+      "title": "DNA Directed Assembly and Droplet-Derived Cell-LadenMicrotissues"
+    },
+    {
+      "id": "adaptive-material-deposition-additive-manufacturing",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/adaptive-material-deposition-additive-manufacturing",
+      "title": "Adaptive Material Deposition for AdditiveManufacturing"
+    },
+    {
+      "id": "cabling-method-flat-tape-shaped-superconducting-wires",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/cabling-method-flat-tape-shaped-superconducting-wires",
+      "title": "Cabling Method of Flat Tape-Shaped SuperconductingWires"
+    },
+    {
+      "id": "alternative-approach-hybrid-arq-systems-joint-channel",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/alternative-approach-hybrid-arq-systems-joint-channel",
+      "title": "An Alternative Approach to Hybrid ARQ Systems-Joint Channel and NetworkCoding"
+    },
+    {
+      "id": "optimal-design-lower-limb-exoskeleton-or-orthosis",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/optimal-design-lower-limb-exoskeleton-or-orthosis",
+      "title": "Optimal Design of a Lower Limb Exoskeleton orOrthosis"
+    },
+    {
+      "id": "massively-parallel-combinatorial-genetics",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/massively-parallel-combinatorial-genetics",
+      "title": "Massively Parallel CombinatorialGenetics"
+    },
+    {
+      "id": "individually-switched-field-emission-arrays",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/individually-switched-field-emission-arrays",
+      "title": "Individually Switched Field EmissionArrays"
+    },
+    {
+      "id": "enhanced-polypeptide-synthesis-uv-monitoring-and",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/enhanced-polypeptide-synthesis-uv-monitoring-and",
+      "title": "Enhanced Polypeptide Synthesis by UV Monitoring and FeedbackControl"
+    },
+    {
+      "id": "change-detection-ground-penetrating-radar",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/change-detection-ground-penetrating-radar",
+      "title": "A Change Detection Ground PenetratingRADAR"
+    },
+    {
+      "id": "simple-robust-manufacturable-low-resistance-joints-0",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/simple-robust-manufacturable-low-resistance-joints-0",
+      "title": "Simple, Robust, Manufacturable, Low Resistance Joints for PIT-VIPER HTS Cables in Time-Varying MagneticFields"
+    },
+    {
+      "id": "mirrored-winding-pack-concept-spiral-grooved-stacked",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/mirrored-winding-pack-concept-spiral-grooved-stacked",
+      "title": "Mirrored Winding Pack Concept for Spiral-Grooved, Stacked-Plate, Non-Insulated SuperconductingMagnets"
+    },
+    {
+      "id": "voltage-tunable-multifunctional-mo6s8polymer",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/voltage-tunable-multifunctional-mo6s8polymer",
+      "title": "Voltage-Tunable Multifunctional Mo6S8/polymer Separator Enables Li-S Batteries with Superior Cycle Stability and High RateCapability"
+    },
+    {
+      "id": "strongly-coupled-magnetic-resonance-scheme-wireless",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/strongly-coupled-magnetic-resonance-scheme-wireless",
+      "title": "Strongly-Coupled Magnetic Resonance Scheme for Wireless Non-Radiative EnergyTransfer"
+    },
+    {
+      "id": "photodetectors-nanocrystals",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/photodetectors-nanocrystals",
+      "title": "Photodetectors FromNanocrystals"
+    },
+    {
+      "id": "millimeter-wave-directed-energy-excavation",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/millimeter-wave-directed-energy-excavation",
+      "title": "Millimeter Wave Directed-EnergyExcavation"
+    },
+    {
+      "id": "reagents-and-methods-single-molecule-peptide",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/reagents-and-methods-single-molecule-peptide",
+      "title": "Reagents and Methods for Single-Molecule PeptideSequencing"
+    },
+    {
+      "id": "self-aligned-gated-tip-arrays-efficient-ionization",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/self-aligned-gated-tip-arrays-efficient-ionization",
+      "title": "Self-Aligned Gated Tip Arrays for Efficient Ionization of Gasses and ElectronEmission"
+    },
+    {
+      "id": "assembly-method-liquid-metal-batteries",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/assembly-method-liquid-metal-batteries",
+      "title": "Assembly Method for Liquid MetalBatteries"
+    },
+    {
+      "id": "coding-approach-robust-and-flexible-transport",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/coding-approach-robust-and-flexible-transport",
+      "title": "A Coding Approach for a Robust and Flexible TransportProtocol"
+    },
+    {
+      "id": "artificial-intelligence-algorithm-assessing-postural",
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/available-technologies/artificial-intelligence-algorithm-assessing-postural",
+      "title": "Artificial Intelligence Algorithm for Assessing Postural Stability During Normal Daily Activities Using Shoe Insert PressureSensors"
+    }
+  ]
+}
